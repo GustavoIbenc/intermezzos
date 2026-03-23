@@ -227,6 +227,14 @@
       "sources": ["https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-amtagvi-til-therapy-melanoma", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11163210/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11071689/"],
       "deliveredAt": ["2026-03-24T01:01:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "dna-facial-reconstruction",
+      "topic": "Forensics/Criminal Science",
+      "fact": "Scientists developed Difface, an AI system that reconstructs 3D facial images from DNA alone. Published in Advanced Science (2025), it maps genetic variants (SNPs) to facial structure using machine learning, achieving accurate reconstructions tested on Chinese genomic databases. The technique acts as a \"biological witness\" in forensics, though researchers warn it needs validation across diverse ethnic groups before widespread deployment.",
+      "sources": ["https://pubmed.ncbi.nlm.nih.gov/40329800/", "https://a2la.org/forensic-dna-phenotyping/", "https://www.biometricupdate.com/202505/dna-used-to-recreate-3d-face-images-in-groundbreaking-new-investigative-technique"],
+      "deliveredAt": ["2026-03-24T01:46:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
@@ -256,6 +264,7 @@
     "Sleep",
     "Medicine/Medical History",
     "Birds/Ornithology",
-    "Neuroscience"
+    "Neuroscience",
+    "Forensics/Criminal Science"
   ]
 }
