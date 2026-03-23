@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0a0a0a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>Intermezzo Archive</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <style>
+    :root {
+      --bg: #0a0a0a; --card: #141414; --text: #f5f5f5; --muted: #a0a0a0;
+      --accent: #ff6b9d; --border: #222; --topic-bg: #1a1a2e;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #fafafa; --card: #fff; --text: #1a1a1a; --muted: #666;
+        --accent: #e91e63; --border: #eee; --topic-bg: #f0f0f5;
+      }
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+      background: var(--bg); color: var(--text); line-height: 1.6;
+      padding: 16px; max-width: 800px; margin: 0 auto;
+    }
+    header {
+      padding: 20px 0 30px; border-bottom: 1px solid var(--border); margin-bottom: 24px;
+    }
+    h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; }
+    .subtitle { color: var(--muted); font-size: 14px; margin-top: 6px; }
+    
+    /* Filters */
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 24px; }
+    .filter-btn {
+      background: var(--card); border: 1px solid var(--border); color: var(--text);
+      padding: 8px 16px; border-radius: 20px; font-size: 13px; cursor: pointer;
+      transition: all 0.2s;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      background: var(--accent); color: #fff; border-color: var(--accent);
+    }
+    
+    /* Grid */
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+    .card {
+      background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+      padding: 16px; cursor: pointer; transition: transform 0.2s;
+    }
+    .card:hover { transform: translateY(-2px); }
+    .card-topic {
+      font-size: 11px; text-transform: uppercase; letter-spacing: 0.8px;
+      color: var(--accent); font-weight: 600; margin-bottom: 8px;
+    }
+    .card-fact { font-size: 14px; line-height: 1.5; margin-bottom: 12px; }
+    .card-meta { font-size: 12px; color: var(--muted); display: flex; justify-content: space-between; }
+    
+    /* Modal */
+    .modal-overlay {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.8);
+      display: none; place-items: center; z-index: 1000; backdrop-filter: blur(4px);
+    }
+    .modal-overlay.active { display: grid; }
+    .modal {
+      background: var(--card); border: 1px solid var(--border); border-radius: 16px;
+      max-width: 500px; width: 90%; max-height: 80vh; overflow-y: auto; padding: 24px;
+    }
+    .modal-topic { font-size: 12px; text-transform: uppercase; color: var(--accent); letter-spacing: 0.8px; margin-bottom: 12px; }
+    .modal-fact { font-size: 16px; line-height: 1.7; margin-bottom: 20px; }
+    .modal-sources { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+    .modal-sources h3 { font-size: 13px; margin-bottom: 8px; color: var(--muted); }
+    .source-link {
+      display: block; font-size: 13px; color: var(--accent); text-decoration: none;
+      margin: 6px 0; word-break: break-all;
+    }
+    .source-link:hover { text-decoration: underline; }
+    .modal-date { font-size: 12px; color: var(--muted); margin-top: 16px; }
+    .close-btn {
+      position: fixed; top: 20px; right: 20px; background: var(--card);
+      border: 1px solid var(--border); color: var(--text); width: 40px; height: 40px;
+      border-radius: 50%; font-size: 20px; cursor: pointer; z-index: 1001;
+    }
+    
+    /* Widget Preview */
+    .widget-preview {
+      margin: 30px 0; padding: 20px; background: var(--topic-bg);
+      border-radius: 16px; text-align: center;
+    }
+    .widget-card {
+      max-width: 300px; margin: 0 auto; background: linear-gradient(135deg, var(--accent), #ff8fa3);
+      padding: 20px; border-radius: 16px; color: white;
+    }
+    .widget-card p { font-size: 14px; line-height: 1.5; }
+    .widget-label { font-size: 11px; opacity: 0.8; margin-bottom: 8px; text-transform: uppercase; }
+    
+    .loading { text-align: center; padding: 60px 20px; color: var(--muted); }
+    @media (max-width: 400px) { h1 { font-size: 24px; } .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🧠 Intermezzo Archive</h1>
+    <div class="subtitle" id="totalCount">Loading...</div>
+  </header>
+
+  <!-- Widget Preview -->
+  <div class="widget-preview">
+    <div class="widget-card">
+      <div class="widget-label">✨ Fact of the Day</div>
+      <p id="widgetFact">Loading today's fact...</p>
+    </div>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters" id="filters"></div>
+
+  <!-- Grid -->
+  <main class="grid" id="grid"></main>
+
+  <!-- Modal -->
+  <button class="close-btn" onclick="closeModal()">×</button>
+  <div class="modal-overlay" id="overlay" onclick="if(event.target===this)closeModal()">
+    <div class="modal" onclick="event.stopPropagation()">
+      <div class="modal-topic" id="mTopic"></div>
+      <div class="modal-fact" id="mFact"></div>
+      <div class="modal-sources" id="mSources"></div>
+      <div class="modal-date" id="mDate"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+  <script>if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});</script>
+</body>
+</html>

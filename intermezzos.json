@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "delivered": [
+    {
+      "id": "octopus-hearts",
+      "topic": "Animals/Biology",
+      "fact": "Octopuses have three hearts. Two pump blood to the gills, one to the organs. The organ heart stops when swimming, so they prefer crawling.",
+      "deliveredAt": ["2026-03-23T01:31:00+08:00"],
+      "count": 4
+    },
+    {
+      "id": "banana-dna",
+      "topic": "Human Body",
+      "fact": "Humans share about 50% of their DNA with bananas. This is verified by genomic research and refers to conserved genes essential for basic cellular functions.",
+      "deliveredAt": ["2026-03-23T02:15:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "neutron-star-density",
+      "topic": "Space/Astronomy",
+      "fact": "A neutron star is so dense that one teaspoon of its material would weigh about 6 billion tons — roughly the same as Mount Everest. This extreme density comes from stellar collapse where atoms are crushed together, verified by NASA observations of these cosmic remnants.",
+      "deliveredAt": ["2026-03-23T03:00:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "mpemba-effect",
+      "topic": "Physics",
+      "fact": "Hot water can freeze faster than cold water — called the Mpemba effect, discovered by Tanzanian student Erasto Mpemba in 1963. Under specific conditions, hot water loses heat faster through evaporation and convection. Initially ridiculed, it's now replicated in peer-reviewed experiments.",
+      "deliveredAt": ["2026-03-23T03:45:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "ocean-bioluminescence",
+      "topic": "Ocean/Marine",
+      "fact": "Most light in Earth's oceans doesn't come from the sun — it comes from living creatures. Below 1,000m depth, sunlight vanishes completely, yet 76% of deep-sea animals glow through bioluminescence. This means our planet's largest habitat is primarily lit by life creating its own light, verified by decades of NOAA and Woods Hole research.",
+      "deliveredAt": ["2026-03-23T04:30:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "voynich-manuscript",
+      "topic": "Linguistics",
+      "fact": "The Voynich Manuscript has defeated every cryptographer for 600+ years, including WWII codebreakers. Carbon-dated to 1404-1438, this 240-page book uses an unknown writing system that no one has deciphered. We can analyze the ink and parchment, but whether it contains real language or elaborate nonsense remains linguistics' greatest unsolved mystery.",
+      "deliveredAt": ["2026-03-23T05:15:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "ancient-brewery-abydos",
+      "topic": "Archaeology",
+      "fact": "Archaeologists discovered the world's oldest known brewery in Egypt, dating to 3100 BC — but it wasn't for pleasure. This industrial-scale facility at Abydos produced up to 22,500 liters per batch, used exclusively for royal rituals and offerings to the dead. The finding, confirmed through pottery analysis and published in archaeological journals, shows beer was sacred currency before it was casual drink.",
+      "deliveredAt": ["2026-03-23T06:00:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "quantum-tunneling-everyday",
+      "topic": "Quantum Mechanics",
+      "fact": "Quantum tunneling means particles can pass through solid barriers they shouldn't be able to cross — like a ball rolling through a hill instead of over it. This isn't theoretical; it's why the sun shines (protons tunnel together for fusion) and why USB flash drives store data. Every time you save a file, you're using quantum physics that Einstein himself thought was impossible.",
+      "deliveredAt": ["2026-03-23T06:45:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "honey-fungus-oregon",
+      "topic": "Botany/Plants",
+      "fact": "The largest living organism on Earth is a honey fungus in Oregon's Malheur National Forest, covering 2,385 acres underground and estimated to be 2,400-8,650 years old. USDA Forest Service scientists confirmed it's genetically identical across the entire area through DNA testing. It spreads through rhizomorphs — black shoestring-like structures that hunt for tree roots.",
+      "deliveredAt": ["2026-03-23T07:30:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "computer-bug-moth",
+      "topic": "Technology",
+      "fact": "The first computer \"bug\" was literal. In 1947, Grace Hopper found an actual moth trapped in Harvard Mark II's relay. She taped it to the logbook with the note \"First actual case of bug being found.\" The moth is still preserved at Smithsonian. This is where we got \"debugging\" — though the term existed earlier, this incident made it famous.",
+      "deliveredAt": ["2026-03-23T08:15:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "blue-whale-lowest-note",
+      "topic": "Music/Sound Science",
+      "fact": "Blue whales produce the lowest musical notes ever recorded—down to 14 Hz, below human hearing. NOAA researchers verified these calls travel over 1,000 miles underwater, making whale song Earth's longest-distance natural communication system.",
+      "deliveredAt": ["2026-03-23T09:00:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "oklo-natural-reactor",
+      "topic": "Geology",
+      "fact": "Earth once had a natural nuclear reactor. In 1972, French scientists discovered uranium ore in Oklo, Gabon depleted in U-235 — the same isotope used in power plants. Natural groundwater acted as a neutron moderator, creating self-sustaining fission reactions that ran for hundreds of thousands of years, 2 billion years ago. It's the only known place where nature built its own nuclear reactor, verified through isotopic analysis in peer-reviewed journals.",
+      "deliveredAt": ["2026-03-23T09:45:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "baader-meinhof-frequency-illusion",
+      "topic": "Psychology",
+      "fact": "Ever learn something new and suddenly see it everywhere? That's the Baader-Meinhof Phenomenon — a verified cognitive bias where your brain's selective attention makes rare things feel common once you're aware of them. Named by linguist Arnold Zwicky in 1994, it explains why spotting your new car model everywhere isn't coincidence; your brain just started flagging it as important.",
+      "deliveredAt": ["2026-03-23T10:30:00+08:00"],
+      "count": 1
+    }
+  ],
+  "topics": [
+    "Space/Astronomy",
+    "Physics",
+    "Biology/Animals",
+    "History",
+    "Technology",
+    "Ocean/Marine",
+    "Human Body",
+    "Psychology",
+    "Linguistics",
+    "Food/Chemistry",
+    "Ancient Civilizations",
+    "Extreme Weather",
+    "Deep Sea Creatures",
+    "Quantum Mechanics",
+    "Archaeology",
+    "Botany/Plants",
+    "Geology",
+    "AI/Computing History",
+    "Music/Sound Science",
+    "Optical Illusions"
+  ]
+}
