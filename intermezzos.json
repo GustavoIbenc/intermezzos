@@ -115,6 +115,14 @@
       "sources": ["https://www.nasa.gov/", "https://www.nips.ac.jp/"],
       "deliveredAt": ["2026-03-23T12:45:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "wigner-rotation-relativity",
+      "topic": "Physics/Quantum Mechanics",
+      "fact": "In Einstein's special relativity, rotating reference frames create fake forces that are very real. When you accelerate close to light speed along curved paths, space itself appears to rotate — a phenomenon called Wigner rotation. This isn't just math; particle accelerators like CERN must account for it when tracking spinning particles. The effect was predicted by Eugene Wigner in 1939 and has been experimentally verified through precision measurements of relativistic particle beams.",
+      "sources": ["https://home.cern/", "https://www.mit.edu/"],
+      "deliveredAt": ["2026-03-23T13:30:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
