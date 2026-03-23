@@ -8,23 +8,39 @@ async function loadData() {
     const data = await res.json();
     allData = data.delivered || [];
     
-    // SORT: Verified facts first (with sources), then unverified
+    // Sort: verified first
     allData.sort((a, b) => {
       const aVerified = (a.sources && a.sources.length > 0) ? 1 : 0;
       const bVerified = (b.sources && b.sources.length > 0) ? 1 : 0;
-      // Descending: verified (1) before unverified (0)
       return bVerified - aVerified;
     });
     
-    document.getElementById('totalCount').textContent = `${allData.length} unique facts collected`;
+    // Update stats
+    const total = allData.length;
+    const topics = [...new Set(allData.map(d => d.topic.split('/')[0]))];
+    const verified = allData.filter(f => f.sources && f.sources.length > 0).length;
     
-    if (allData.length > 0) {
-      const latest = allData[0];
-      document.getElementById('widgetFact').textContent = latest.fact.substring(0, 150) + (latest.fact.length > 150 ? '...' : '');
-    }
+    document.getElementById('totalFacts').textContent = total;
+    document.getElementById('topicsCount').textContent = topics.length;
+    document.getElementById('verifiedCount').textContent = verified;
     
     renderFilters();
     renderGrid(allData);
+    
+    // Search functionality
+    document.getElementById('searchBox').addEventListener('input', (e) => {
+      const query = e.target.value.toLowerCase();
+      if (!query) {
+        renderGrid(allData);
+      } else {
+        const filtered = allData.filter(item => 
+          item.fact.toLowerCase().includes(query) ||
+          item.topic.toLowerCase().includes(query)
+        );
+        renderGrid(filtered);
+      }
+    });
+    
   } catch (e) {
     console.error(e);
     document.getElementById('grid').innerHTML = '<div class="loading">Failed to load facts. Pull to refresh.</div>';
@@ -32,7 +48,7 @@ async function loadData() {
 }
 
 function renderFilters() {
-  const topics = [...new Set(allData.map(d => d.topic))];
+  const topics = [...new Set(allData.map(d => d.topic.split('/')[0]))];
   const container = document.getElementById('filters');
   
   let html = `<button class="filter-btn active" onclick="filterBy('all')">All</button>`;
@@ -46,14 +62,14 @@ function filterBy(topic) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   event.target.classList.add('active');
   
-  const filtered = topic === 'all' ? allData : allData.filter(d => d.topic === topic);
+  const filtered = topic === 'all' ? allData : allData.filter(d => d.topic.startsWith(topic));
   renderGrid(filtered);
 }
 
 function renderGrid(items) {
   const grid = document.getElementById('grid');
   if (items.length === 0) {
-    grid.innerHTML = '<div class="loading">No facts found.</div>';
+    grid.innerHTML = '<div class="loading">No facts found matching your search.</div>';
     return;
   }
   
@@ -61,17 +77,20 @@ function renderGrid(items) {
     const sources = item.sources || [];
     const srcCount = sources.length;
     const hasSources = srcCount > 0;
-    const sourceBadge = hasSources 
-      ? `<span style="color:var(--accent)">✅ ${srcCount} source${srcCount !== 1 ? 's' : ''}</span>`
-      : `<span style="color:#ff9f43">⚠️ Needs validation</span>`;
+    const badgeClass = hasSources ? 'card-verified' : 'card-unverified';
+    const badgeText = hasSources ? `✅ Verified (${srcCount})` : '⚠️ Unverified';
     
     return `
-    <div class="card" onclick="openModal(${i})" style="${!hasSources ? 'border-color:#ff9f4344;opacity:0.85;' : ''}">
-      <div class="card-topic">${item.topic}${!hasSources ? ' <span style="font-size:10px;background:#ff9f43;color:#000;padding:2px 6px;border-radius:4px;margin-left:6px;">UNVERIFIED</span>' : ''}</div>
-      <div class="card-fact">${item.fact.substring(0, 120)}${item.fact.length > 120 ? '...' : ''}</div>
+    <div class="card" onclick="openModal(${i})">
+      <div class="${badgeClass}">${hasSources ? '✅ Verified' : '⚠️ Unverified'}</div>
+      <div class="card-topic">${item.topic.split('/')[0]}</div>
+      <div class="card-fact">${item.fact.substring(0, 140)}${item.fact.length > 140 ? '...' : ''}</div>
       <div class="card-meta">
-        <span>${new Date(item.deliveredAt[0]).toLocaleDateString()}</span>
-        ${sourceBadge}
+        <span>${new Date(item.deliveredAt[0]).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</span>
+        <div class="sources-badge">
+          ${hasSources ? '<span class="source-icon">📚</span>' : ''}
+          <span>${hasSources ? srcCount + ' source' + (srcCount !== 1 ? 's' : '') : 'Needs validation'}</span>
+        </div>
       </div>
     </div>
   `}).join('');
@@ -85,17 +104,17 @@ function openModal(index) {
   const sources = item.sources || [];
   if (sources.length > 0) {
     document.getElementById('mSources').innerHTML = 
-      `<h3>✅ Verified Sources</h3>` + sources.map(s => `<a href="${s}" target="_blank" rel="noopener" class="source-link">🔗 ${s.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a>`).join('');
+      `<h3>📚 Verified Sources (${sources.length})</h3>` + 
+      sources.map(s => `<a href="${s}" target="_blank" rel="noopener" class="source-link">🔗 ${s.replace(/^https?:\/\//, '').replace(/\/$/, '')}</a>`).join('');
   } else {
     document.getElementById('mSources').innerHTML = 
-      `<h3 style="color:#ff9f43">⚠️ No Sources Recorded</h3>
-       <p style="color:var(--muted);font-size:13px;line-height:1.5;">
-         This fact hasn't been verified with credible sources yet. 
-         Please validate independently before trusting or sharing.
+      `<h3 style="color:#f59e0b">⚠️ Needs Validation</h3>
+       <p style="color:var(--muted);font-size:14px;line-height:1.6;">
+         This fact hasn't been verified with credible sources yet. Please validate independently before trusting or sharing.
        </p>`;
   }
   
-  document.getElementById('mDate').textContent = `Delivered: ${new Date(item.deliveredAt[0]).toLocaleString()}`;
+  document.getElementById('mDate').textContent = `First shared: ${new Date(item.deliveredAt[0]).toLocaleString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' })}`;
   document.getElementById('overlay').classList.add('active');
   document.body.style.overflow = 'hidden';
 }
