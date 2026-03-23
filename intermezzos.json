@@ -219,6 +219,14 @@
       "sources": ["https://www.nature.com/articles/s41467-025-63773-9", "https://eos.org/articles/satellite-data-reveal-changing-lakes-under-antarctic-ice", "https://www.livescience.com/planet-earth/antarctica/scientists-discover-85-active-lakes-buried-beneath-antarcticas-ice"],
       "deliveredAt": ["2026-03-24T00:16:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "first-tid-solid-tumor",
+      "topic": "Cancer/Medical Science",
+      "fact": "On February 16, 2024, FDA approved lifileucel (Amtagvi) — the first cellular therapy ever for solid tumors. This one-time T-cell treatment uses patients' own tumor-infiltrating lymphocytes (TILs) to fight advanced melanoma after other therapies fail. Unlike CAR-T which works for blood cancers, this breakthrough extracts immune cells directly from the tumor itself, expands them in labs, and reinfuses them to attack cancer.",
+      "sources": ["https://www.cancer.gov/news-events/cancer-currents-blog/2024/fda-amtagvi-til-therapy-melanoma", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11163210/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11071689/"],
+      "deliveredAt": ["2026-03-24T01:01:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
