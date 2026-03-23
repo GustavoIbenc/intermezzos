@@ -155,6 +155,14 @@
       "sources": ["https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/", "https://www.sciencefocus.com/planet-earth/the-weirdest-and-rarest-weather-phenomena-from-around-the-world", "https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/"],
       "deliveredAt": ["2026-03-23T17:15:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "optical-illusion-filling",
+      "topic": "Optical Illusions",
+      "fact": "Your brain actively fills in your blind spot — the place where your optic nerve exits the retina has no photoreceptors, yet you never notice a hole in your vision. Neuroscientists discovered neurons in the visual cortex that complete boundary representations and fill in surfaces across the blind spot using predictive coding. This isn't just interpolation; your brain constructs reality from incomplete data, verified through peer-reviewed studies published in Nature Reviews Neuroscience and NIH-funded research.",
+      "sources": ["https://www.nature.com/articles/35104092", "https://pmc.ncbi.nlm.nih.gov/articles/PMC4211395/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC4784844/", "https://alleninstitute.org/news/new-research-to-understand-how-the-brain-handles-optical-illusions-and-makes-predictions/"],
+      "deliveredAt": ["2026-03-23T18:00:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
