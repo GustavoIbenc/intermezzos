@@ -123,6 +123,14 @@
       "sources": ["https://home.cern/", "https://www.mit.edu/"],
       "deliveredAt": ["2026-03-23T13:30:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "enigma-human-factor",
+      "topic": "Mathematics/Cryptography",
+      "fact": "The Enigma machine had 159 million million million possible settings—but Alan Turing's team cracked it anyway. Their secret wasn't brute force; they exploited German operators' predictable habits like repeating message keys and using obvious phrases. This proves that even perfect encryption fails when humans are the weak link, verified through Bletchley Park archives and published cryptographic history research.",
+      "sources": ["https://www.bletchleypark.org.uk/", "https://royalsocietypublishing.org/"],
+      "deliveredAt": ["2026-03-23T15:00:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
