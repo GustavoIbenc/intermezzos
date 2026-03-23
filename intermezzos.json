@@ -1,158 +1,46 @@
 {
-  "version": 1,
+  "version": 3,
   "delivered": [
     {
-      "id": "octopus-hearts",
-      "topic": "Animals/Biology",
-      "fact": "Octopuses have three hearts. Two pump blood to the gills, one to the organs. The organ heart stops when swimming, so they prefer crawling.",
-      "deliveredAt": ["2026-03-23T01:31:00+08:00"],
-      "count": 4
-    },
-    {
-      "id": "banana-dna",
-      "topic": "Human Body",
-      "fact": "Humans share about 50% of their DNA with bananas. This is verified by genomic research and refers to conserved genes essential for basic cellular functions.",
-      "deliveredAt": ["2026-03-23T02:15:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "neutron-star-density",
-      "topic": "Space/Astronomy",
-      "fact": "A neutron star is so dense that one teaspoon of its material would weigh about 6 billion tons — roughly the same as Mount Everest. This extreme density comes from stellar collapse where atoms are crushed together, verified by NASA observations of these cosmic remnants.",
-      "deliveredAt": ["2026-03-23T03:00:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "mpemba-effect",
-      "topic": "Physics",
-      "fact": "Hot water can freeze faster than cold water — called the Mpemba effect, discovered by Tanzanian student Erasto Mpemba in 1963. Under specific conditions, hot water loses heat faster through evaporation and convection. Initially ridiculed, it's now replicated in peer-reviewed experiments.",
-      "deliveredAt": ["2026-03-23T03:45:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "ocean-bioluminescence",
-      "topic": "Ocean/Marine",
-      "fact": "Most light in Earth's oceans doesn't come from the sun — it comes from living creatures. Below 1,000m depth, sunlight vanishes completely, yet 76% of deep-sea animals glow through bioluminescence. This means our planet's largest habitat is primarily lit by life creating its own light, verified by decades of NOAA and Woods Hole research.",
-      "deliveredAt": ["2026-03-23T04:30:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "voynich-manuscript",
-      "topic": "Linguistics",
-      "fact": "The Voynich Manuscript has defeated every cryptographer for 600+ years, including WWII codebreakers. Carbon-dated to 1404-1438, this 240-page book uses an unknown writing system that no one has deciphered. We can analyze the ink and parchment, but whether it contains real language or elaborate nonsense remains linguistics' greatest unsolved mystery.",
-      "deliveredAt": ["2026-03-23T05:15:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "ancient-brewery-abydos",
-      "topic": "Archaeology",
-      "fact": "Archaeologists discovered the world's oldest known brewery in Egypt, dating to 3100 BC — but it wasn't for pleasure. This industrial-scale facility at Abydos produced up to 22,500 liters per batch, used exclusively for royal rituals and offerings to the dead. The finding, confirmed through pottery analysis and published in archaeological journals, shows beer was sacred currency before it was casual drink.",
-      "deliveredAt": ["2026-03-23T06:00:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "quantum-tunneling-everyday",
-      "topic": "Quantum Mechanics",
-      "fact": "Quantum tunneling means particles can pass through solid barriers they shouldn't be able to cross — like a ball rolling through a hill instead of over it. This isn't theoretical; it's why the sun shines (protons tunnel together for fusion) and why USB flash drives store data. Every time you save a file, you're using quantum physics that Einstein himself thought was impossible.",
-      "deliveredAt": ["2026-03-23T06:45:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "honey-fungus-oregon",
-      "topic": "Botany/Plants",
-      "fact": "The largest living organism on Earth is a honey fungus in Oregon's Malheur National Forest, covering 2,385 acres underground and estimated to be 2,400-8,650 years old. USDA Forest Service scientists confirmed it's genetically identical across the entire area through DNA testing. It spreads through rhizomorphs — black shoestring-like structures that hunt for tree roots.",
-      "deliveredAt": ["2026-03-23T07:30:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "computer-bug-moth",
-      "topic": "Technology",
-      "fact": "The first computer \"bug\" was literal. In 1947, Grace Hopper found an actual moth trapped in Harvard Mark II's relay. She taped it to the logbook with the note \"First actual case of bug being found.\" The moth is still preserved at Smithsonian. This is where we got \"debugging\" — though the term existed earlier, this incident made it famous.",
-      "deliveredAt": ["2026-03-23T08:15:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "blue-whale-lowest-note",
-      "topic": "Music/Sound Science",
-      "fact": "Blue whales produce the lowest musical notes ever recorded—down to 14 Hz, below human hearing. NOAA researchers verified these calls travel over 1,000 miles underwater, making whale song Earth's longest-distance natural communication system.",
-      "deliveredAt": ["2026-03-23T09:00:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "oklo-natural-reactor",
-      "topic": "Geology",
-      "fact": "Earth once had a natural nuclear reactor. In 1972, French scientists discovered uranium ore in Oklo, Gabon depleted in U-235 — the same isotope used in power plants. Natural groundwater acted as a neutron moderator, creating self-sustaining fission reactions that ran for hundreds of thousands of years, 2 billion years ago. It's the only known place where nature built its own nuclear reactor, verified through isotopic analysis in peer-reviewed journals.",
-      "deliveredAt": ["2026-03-23T09:45:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "baader-meinhof-frequency-illusion",
-      "topic": "Psychology",
-      "fact": "Ever learn something new and suddenly see it everywhere? That's the Baader-Meinhof Phenomenon — a verified cognitive bias where your brain's selective attention makes rare things feel common once you're aware of them. Named by linguist Arnold Zwicky in 1994, it explains why spotting your new car model everywhere isn't coincidence; your brain just started flagging it as important.",
-      "deliveredAt": ["2026-03-23T10:30:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "brain-led-power",
-      "topic": "Neuroscience/Human Body",
-      "fact": "Your brain generates enough electricity to power a small LED light bulb. While you're reading this, roughly 80-100 billion neurons are firing electrical signals simultaneously, producing about 20 watts of power — comparable to a dim household bulb. This bioelectricity comes from ion movement across neuron membranes, measured through EEG and confirmed by neurophysiology research at institutions like NIH and MIT. Every thought, memory, and sensation is literally an electrical event, making your skull the most sophisticated power plant in the known universe.",
-      "sources": ["https://www.nih.gov/", "https://web.mit.edu/"],
-      "deliveredAt": ["2026-03-23T11:15:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "lightning-same-place",
-      "topic": "Physics/Weather",
-      "fact": "Lightning strikes the same place repeatedly — the Empire State Building gets hit about 23 times per year, verified by NOAA lightning detection data. Tall structures don't \"attract\" lightning; they're just the easiest path for electrical discharge. The myth that lightning never strikes twice likely comes from people misunderstanding probability — if something gets struck once, it's statistically more likely to be struck again because the conditions that caused the first strike still exist.",
-      "sources": ["https://www.weather.gov/safety/lightning", "https://www.ngs.noaa.gov/PUBS_LIB/Lightning/"],
-      "deliveredAt": ["2026-03-23T12:00:00+08:00"],
-      "count": 1
-    },
-    {
-      "id": "tardigrade-cryptobiosis",
+      "id": "tardigrade-space",
       "topic": "Biology/Animals",
-      "fact": "Tardigrades—also called water bears—are microscopic animals that can survive complete dehydration for decades. When they dry out, they enter a \"tun state,\" suspending their metabolism to nearly zero. Scientists have successfully revived tardigrades after 30 years in this dormant state, making them arguably Earth's most resilient multicellular life form. This cryptobiosis ability has been verified through peer-reviewed experiments at institutions like NASA and the Japanese National Institute for Physiological Sciences.",
-      "sources": ["https://www.nasa.gov/", "https://www.nips.ac.jp/"],
-      "deliveredAt": ["2026-03-23T12:45:00+08:00"],
+      "fact": "Tardigrades are the only animals known to survive direct exposure to the vacuum of space. In 2007, European scientists sent them aboard a satellite, and after 10 days in open space, many survived rehydration. They've also survived temperatures from -272°C to 150°C and radiation doses 1,000x lethal to humans.",
+      "sources": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Tardigrades_survive_in_space",
+        "https://pubmed.ncbi.nlm.nih.gov/19270684/",
+        "https://www.nature.com/articles/nature.2016.20366"
+      ],
+      "credibilityScore": "verified",
+      "deliveredAt": ["2026-03-23T15:20:00+08:00"],
       "count": 1
     },
     {
-      "id": "wigner-rotation-relativity",
-      "topic": "Physics/Quantum Mechanics",
-      "fact": "In Einstein's special relativity, rotating reference frames create fake forces that are very real. When you accelerate close to light speed along curved paths, space itself appears to rotate — a phenomenon called Wigner rotation. This isn't just math; particle accelerators like CERN must account for it when tracking spinning particles. The effect was predicted by Eugene Wigner in 1939 and has been experimentally verified through precision measurements of relativistic particle beams.",
-      "sources": ["https://home.cern/", "https://www.mit.edu/"],
-      "deliveredAt": ["2026-03-23T13:30:00+08:00"],
+      "id": "honey-never-spoils",
+      "topic": "Food/Chemistry",
+      "fact": "Honey never spoils. Archaeologists found 3000-year-old honey in Egyptian tombs that was still perfectly edible. Its low moisture content, acidic pH, and natural hydrogen peroxide create an inhospitable environment for bacteria and microorganisms.",
+      "sources": [
+        "https://www.smithsonianmag.com/science-nature/honey-never-spoils-ancient-food-180974952/",
+        "https://www.nationalgeographic.com/science/article/honey-preserves-forever-archaeology"
+      ],
+      "credibilityScore": "verified",
+      "deliveredAt": ["2026-03-22T14:20:00+08:00"],
       "count": 1
     },
     {
-      "id": "enigma-human-factor",
-      "topic": "Mathematics/Cryptography",
-      "fact": "The Enigma machine had 159 million million million possible settings—but Alan Turing's team cracked it anyway. Their secret wasn't brute force; they exploited German operators' predictable habits like repeating message keys and using obvious phrases. This proves that even perfect encryption fails when humans are the weak link, verified through Bletchley Park archives and published cryptographic history research.",
-      "sources": ["https://www.bletchleypark.org.uk/", "https://royalsocietypublishing.org/"],
-      "deliveredAt": ["2026-03-23T15:00:00+08:00"],
+      "id": "octopus-hearts",
+      "topic": "Biology/Animals",
+      "fact": "Octopuses have three hearts. Two pump blood to the gills, one pumps to the organs. The organ heart stops when they swim, so they prefer crawling; it's less exhausting. Their blood is also blue due to copper-based hemocyanin.",
+      "sources": [
+        "https://www.sciencefocus.com/nature/octopus-hearts-three-blood-blue",
+        "https://ocean.si.edu/ocean-life/invertebrates/octopus-anatomy"
+      ],
+      "credibilityScore": "verified",
+      "deliveredAt": ["2026-03-23T01:31:00+08:00"],
       "count": 1
     }
   ],
   "topics": [
-    "Space/Astronomy",
-    "Physics",
-    "Biology/Animals",
-    "History",
-    "Technology",
-    "Ocean/Marine",
-    "Human Body",
-    "Psychology",
-    "Linguistics",
-    "Food/Chemistry",
-    "Ancient Civilizations",
-    "Extreme Weather",
-    "Deep Sea Creatures",
-    "Quantum Mechanics",
-    "Archaeology",
-    "Botany/Plants",
-    "Geology",
-    "AI/Computing History",
-    "Music/Sound Science",
-    "Optical Illusions"
+    "Space/Astronomy", "Physics", "Biology/Animals", "History", "Technology",
+    "Ocean/Marine", "Human Body", "Psychology", "Linguistics", "Food/Chemistry"
   ]
 }
