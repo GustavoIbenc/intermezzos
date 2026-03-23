@@ -147,6 +147,14 @@
       "sources": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC5693239/", "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-does-chopping-an-onion-make-you-cry/", "https://edu.rsc.org/magnificent-molecules/propanethial-s-oxide/3010038.article"],
       "deliveredAt": ["2026-03-23T16:30:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "red-sprites-tles",
+      "topic": "Extreme Weather",
+      "fact": "Red sprites are electrical discharges that flash 50-90km above thunderstorms — far higher than normal lightning. First accidentally captured on camera in 1989 by University of Minnesota researchers, these crimson flashes last only milliseconds and appear as jellyfish-shaped plasma in Earth's mesosphere. NASA's Spritacular project now crowdsources sprite photos to study these elusive Transient Luminous Events, which remained theoretical until video evidence proved their existence.",
+      "sources": ["https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/", "https://www.sciencefocus.com/planet-earth/the-weirdest-and-rarest-weather-phenomena-from-around-the-world", "https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/"],
+      "deliveredAt": ["2026-03-23T17:15:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
