@@ -259,6 +259,29 @@
       "sources": ["https://www.sciencedaily.com/releases/2025/10/251013040337.htm", "https://www.ox.ac.uk/news/2025-01-13-oxford-researchers-develop-blood-test-enable-early-detection-multiple-cancers", "https://www.nih.gov/news-events/news-releases/researchers-identify-new-blood-markers-may-detect-early-pancreatic-cancer"],
       "deliveredAt": ["2026-03-24T04:17:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "ny-animal-consciousness-declaration",
+      "topic": "Animal Consciousness",
+      "fact": "Over 500 scientists signed the 2024 New York Declaration on Animal Consciousness, affirming robust evidence for conscious experience in all vertebrates and many invertebrates. This landmark consensus emerged from decades of behavioral and neuroscientific research showing animals exhibit neural correlates and behaviors analogous to human consciousness. The declaration explicitly includes mammals, birds, reptiles, amphibians, fish, cephalopods, crustaceans, and insects as species warranting moral consideration.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2025/02/250220164349.htm",
+        "https://pubmed.ncbi.nlm.nih.gov/39227505/",
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1456403/full"
+      ],
+      "deliveredAt": ["2026-03-24T05:18:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "graphene-aerogel-lightest",
+      "topic": "Chemistry/Materials Science",
+      "fact": "Graphene aerogel is the world's lightest solid material at just 0.16 mg/cm³ — seven times lighter than air and half the density of helium. Created in 2013 by Zhejiang University researchers led by Gao Chao, this ultraflyweight material can balance on delicate flower petals without crushing them. Despite its near-zero density, it exhibits high elasticity and can absorb hundreds of times its own weight in solvents, verified through peer-reviewed research published in Nature Scientific Reports.",
+      "sources": [
+        "https://www.azom.com/article.aspx?ArticleID=24886",
+        "https://www.nature.com/articles/srep05025"
+      ],
+      "deliveredAt": ["2026-03-24T06:19:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
@@ -290,6 +313,7 @@
     "Birds/Ornithology",
     "Neuroscience",
     "Forensics/Criminal Science",
-    "Ocean/Climate Change"
+    "Ocean/Climate Change",
+    "Animal Consciousness"
   ]
 }
