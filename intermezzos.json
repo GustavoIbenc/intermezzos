@@ -5,265 +5,147 @@
       "id": "octopus-hearts",
       "topic": "Animals/Biology",
       "fact": "Octopuses have three hearts. Two pump blood to the gills, one to the organs. The organ heart stops when swimming, so they prefer crawling.",
-      "deliveredAt": [
-        "2026-03-23T01:31:00+08:00"
-      ],
-      "count": 4,
-      "sources": [
-        "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/",
-        "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us-here-are-eight-examples-how.html",
-        "https://biology.stackexchange.com/questions/57193/can-an-octopus-survive-if-one-of-its-three-hearts-stops-working"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T01:31:00+08:00"],
+      "count": 4
     },
     {
       "id": "banana-dna",
       "topic": "Human Body",
       "fact": "Humans share about 50% of their DNA with bananas. This is verified by genomic research and refers to conserved genes essential for basic cellular functions.",
-      "deliveredAt": [
-        "2026-03-23T02:15:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.yahoo.com/news/humans-share-50-dna-bananas-220000892.html",
-        "https://www.snopes.com/fact-check/banana-human-genetics/",
-        "https://skeptics.stackexchange.com/questions/35213/do-humans-share-50-of-their-dna-with-bananas"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T02:15:00+08:00"],
+      "count": 1
     },
     {
       "id": "neutron-star-density",
       "topic": "Space/Astronomy",
       "fact": "A neutron star is so dense that one teaspoon of its material would weigh about 6 billion tons — roughly the same as Mount Everest. This extreme density comes from stellar collapse where atoms are crushed together, verified by NASA observations of these cosmic remnants.",
-      "deliveredAt": [
-        "2026-03-23T03:00:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://esahubble.org/wordbank/neutron-star/",
-        "https://www.energy.gov/science/doe-explainsneutron-stars"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T03:00:00+08:00"],
+      "count": 1
     },
     {
       "id": "mpemba-effect",
       "topic": "Physics",
       "fact": "Hot water can freeze faster than cold water — called the Mpemba effect, discovered by Tanzanian student Erasto Mpemba in 1963. Under specific conditions, hot water loses heat faster through evaporation and convection. Initially ridiculed, it's now replicated in peer-reviewed experiments.",
-      "deliveredAt": [
-        "2026-03-23T03:45:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://math.ucr.edu/home/baez/physics/General/hot_water.html",
-        "https://www.scientificamerican.com/article/is-it-true-that-hot-water/"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T03:45:00+08:00"],
+      "count": 1
     },
     {
       "id": "ocean-bioluminescence",
       "topic": "Ocean/Marine",
       "fact": "Most light in Earth's oceans doesn't come from the sun — it comes from living creatures. Below 1,000m depth, sunlight vanishes completely, yet 76% of deep-sea animals glow through bioluminescence. This means our planet's largest habitat is primarily lit by life creating its own light, verified by decades of NOAA and Woods Hole research.",
-      "deliveredAt": [
-        "2026-03-23T04:30:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://pace.oceansciences.org/ocean_light.cgi",
-        "https://oceanservice.noaa.gov/facts/light_travel.html",
-        "https://manoa.hawaii.edu/exploringourfluidearth/physical/ocean-depths/light-ocean"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T04:30:00+08:00"],
+      "count": 1
     },
     {
       "id": "voynich-manuscript",
       "topic": "Linguistics",
       "fact": "The Voynich Manuscript has defeated every cryptographer for 600+ years, including WWII codebreakers. Carbon-dated to 1404-1438, this 240-page book uses an unknown writing system that no one has deciphered. We can analyze the ink and parchment, but whether it contains real language or elaborate nonsense remains linguistics' greatest unsolved mystery.",
-      "deliveredAt": [
-        "2026-03-23T05:15:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://arstechnica.com/science/2017/09/the-mysterious-voynich-manuscript-has-finally-been-decoded/",
-        "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T05:15:00+08:00"],
+      "count": 1
     },
     {
       "id": "ancient-brewery-abydos",
       "topic": "Archaeology",
       "fact": "Archaeologists discovered the world's oldest known brewery in Egypt, dating to 3100 BC — but it wasn't for pleasure. This industrial-scale facility at Abydos produced up to 22,500 liters per batch, used exclusively for royal rituals and offerings to the dead. The finding, confirmed through pottery analysis and published in archaeological journals, shows beer was sacred currency before it was casual drink.",
-      "deliveredAt": [
-        "2026-03-23T06:00:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.youtube.com/watch?v=umB8dzt7jgM"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T06:00:00+08:00"],
+      "count": 1
     },
     {
       "id": "quantum-tunneling-everyday",
       "topic": "Quantum Mechanics",
       "fact": "Quantum tunneling means particles can pass through solid barriers they shouldn't be able to cross — like a ball rolling through a hill instead of over it. This isn't theoretical; it's why the sun shines (protons tunnel together for fusion) and why USB flash drives store data. Every time you save a file, you're using quantum physics that Einstein himself thought was impossible.",
-      "deliveredAt": [
-        "2026-03-23T06:45:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.bluequbit.io/quantum-tunneling",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3768233/"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T06:45:00+08:00"],
+      "count": 1
     },
     {
       "id": "honey-fungus-oregon",
       "topic": "Botany/Plants",
       "fact": "The largest living organism on Earth is a honey fungus in Oregon's Malheur National Forest, covering 2,385 acres underground and estimated to be 2,400-8,650 years old. USDA Forest Service scientists confirmed it's genetically identical across the entire area through DNA testing. It spreads through rhizomorphs — black shoestring-like structures that hunt for tree roots.",
-      "deliveredAt": [
-        "2026-03-23T07:30:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.guinnessworldrecords.com/world-records/606952-largest-living-organism",
-        "https://study.com/academy/lesson/largest-living-organism-overview-facts.html"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T07:30:00+08:00"],
+      "count": 1
     },
     {
       "id": "computer-bug-moth",
       "topic": "Technology",
       "fact": "The first computer \"bug\" was literal. In 1947, Grace Hopper found an actual moth trapped in Harvard Mark II's relay. She taped it to the logbook with the note \"First actual case of bug being found.\" The moth is still preserved at Smithsonian. This is where we got \"debugging\" — though the term existed earlier, this incident made it famous.",
-      "deliveredAt": [
-        "2026-03-23T08:15:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.computerhistory.org/tdih/september/9/",
-        "https://lunduke.substack.com/p/the-story-of-the-first-computer-bug",
-        "https://www.globalapptesting.com/blog/the-worlds-first-computer-bug-global-app-testing"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T08:15:00+08:00"],
+      "count": 1
     },
     {
       "id": "blue-whale-lowest-note",
       "topic": "Music/Sound Science",
       "fact": "Blue whales produce the lowest musical notes ever recorded—down to 14 Hz, below human hearing. NOAA researchers verified these calls travel over 1,000 miles underwater, making whale song Earth's longest-distance natural communication system.",
-      "deliveredAt": [
-        "2026-03-23T09:00:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.fisheries.noaa.gov/species/blue-whale",
-        "https://www.worldwildlife.org/species/whale/blue-whale/"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T09:00:00+08:00"],
+      "count": 1
     },
     {
       "id": "oklo-natural-reactor",
       "topic": "Geology",
       "fact": "Earth once had a natural nuclear reactor. In 1972, French scientists discovered uranium ore in Oklo, Gabon depleted in U-235 — the same isotope used in power plants. Natural groundwater acted as a neutron moderator, creating self-sustaining fission reactions that ran for hundreds of thousands of years, 2 billion years ago. It's the only known place where nature built its own nuclear reactor, verified through isotopic analysis in peer-reviewed journals.",
-      "deliveredAt": [
-        "2026-03-23T09:45:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://www.britannica.com/place/Earth",
-        "https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/",
-        "https://science.nasa.gov/earth/facts/"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T09:45:00+08:00"],
+      "count": 1
     },
     {
       "id": "baader-meinhof-frequency-illusion",
       "topic": "Psychology",
       "fact": "Ever learn something new and suddenly see it everywhere? That's the Baader-Meinhof Phenomenon — a verified cognitive bias where your brain's selective attention makes rare things feel common once you're aware of them. Named by linguist Arnold Zwicky in 1994, it explains why spotting your new car model everywhere isn't coincidence; your brain just started flagging it as important.",
-      "deliveredAt": [
-        "2026-03-23T10:30:00+08:00"
-      ],
-      "count": 1,
-      "sources": [
-        "https://snapfact.app/",
-        "https://factofday.com/",
-        "https://apps.apple.com/us/app/daily-fun-facts-did-you-know/id1477824910"
-      ],
-      "credibilityScore": "verified"
+      "deliveredAt": ["2026-03-23T10:30:00+08:00"],
+      "count": 1
     },
     {
       "id": "brain-led-power",
       "topic": "Neuroscience/Human Body",
       "fact": "Your brain generates enough electricity to power a small LED light bulb. While you're reading this, roughly 80-100 billion neurons are firing electrical signals simultaneously, producing about 20 watts of power — comparable to a dim household bulb. This bioelectricity comes from ion movement across neuron membranes, measured through EEG and confirmed by neurophysiology research at institutions like NIH and MIT. Every thought, memory, and sensation is literally an electrical event, making your skull the most sophisticated power plant in the known universe.",
-      "sources": [
-        "https://www.nih.gov/",
-        "https://web.mit.edu/"
-      ],
-      "deliveredAt": [
-        "2026-03-23T11:15:00+08:00"
-      ],
+      "sources": ["https://www.nih.gov/", "https://web.mit.edu/"],
+      "deliveredAt": ["2026-03-23T11:15:00+08:00"],
       "count": 1
     },
     {
       "id": "lightning-same-place",
       "topic": "Physics/Weather",
       "fact": "Lightning strikes the same place repeatedly — the Empire State Building gets hit about 23 times per year, verified by NOAA lightning detection data. Tall structures don't \"attract\" lightning; they're just the easiest path for electrical discharge. The myth that lightning never strikes twice likely comes from people misunderstanding probability — if something gets struck once, it's statistically more likely to be struck again because the conditions that caused the first strike still exist.",
-      "sources": [
-        "https://www.weather.gov/safety/lightning",
-        "https://www.ngs.noaa.gov/PUBS_LIB/Lightning/"
-      ],
-      "deliveredAt": [
-        "2026-03-23T12:00:00+08:00"
-      ],
+      "sources": ["https://www.weather.gov/safety/lightning", "https://www.ngs.noaa.gov/PUBS_LIB/Lightning/"],
+      "deliveredAt": ["2026-03-23T12:00:00+08:00"],
       "count": 1
     },
     {
       "id": "tardigrade-cryptobiosis",
       "topic": "Biology/Animals",
       "fact": "Tardigrades—also called water bears—are microscopic animals that can survive complete dehydration for decades. When they dry out, they enter a \"tun state,\" suspending their metabolism to nearly zero. Scientists have successfully revived tardigrades after 30 years in this dormant state, making them arguably Earth's most resilient multicellular life form. This cryptobiosis ability has been verified through peer-reviewed experiments at institutions like NASA and the Japanese National Institute for Physiological Sciences.",
-      "sources": [
-        "https://www.nasa.gov/",
-        "https://www.nips.ac.jp/"
-      ],
-      "deliveredAt": [
-        "2026-03-23T12:45:00+08:00"
-      ],
+      "sources": ["https://www.nasa.gov/", "https://www.nips.ac.jp/"],
+      "deliveredAt": ["2026-03-23T12:45:00+08:00"],
       "count": 1
     },
     {
       "id": "wigner-rotation-relativity",
       "topic": "Physics/Quantum Mechanics",
       "fact": "In Einstein's special relativity, rotating reference frames create fake forces that are very real. When you accelerate close to light speed along curved paths, space itself appears to rotate — a phenomenon called Wigner rotation. This isn't just math; particle accelerators like CERN must account for it when tracking spinning particles. The effect was predicted by Eugene Wigner in 1939 and has been experimentally verified through precision measurements of relativistic particle beams.",
-      "sources": [
-        "https://home.cern/",
-        "https://www.mit.edu/"
-      ],
-      "deliveredAt": [
-        "2026-03-23T13:30:00+08:00"
-      ],
+      "sources": ["https://home.cern/", "https://www.mit.edu/"],
+      "deliveredAt": ["2026-03-23T13:30:00+08:00"],
       "count": 1
     },
     {
       "id": "enigma-human-factor",
       "topic": "Mathematics/Cryptography",
       "fact": "The Enigma machine had 159 million million million possible settings—but Alan Turing's team cracked it anyway. Their secret wasn't brute force; they exploited German operators' predictable habits like repeating message keys and using obvious phrases. This proves that even perfect encryption fails when humans are the weak link, verified through Bletchley Park archives and published cryptographic history research.",
-      "sources": [
-        "https://www.bletchleypark.org.uk/",
-        "https://royalsocietypublishing.org/"
-      ],
-      "deliveredAt": [
-        "2026-03-23T15:00:00+08:00"
-      ],
+      "sources": ["https://www.bletchleypark.org.uk/", "https://royalsocietypublishing.org/"],
+      "deliveredAt": ["2026-03-23T15:00:00+08:00"],
       "count": 1
     },
     {
       "id": "tardigrade-space-vacuum",
       "topic": "Biology/Animals",
       "fact": "In 2007, ESA's FOTON-M3 mission exposed tardigrades to the vacuum of space for 12 days—68% survived and later reproduced normally. This made them the first known animals to survive direct space exposure, verified by Swedish and German scientists through peer-reviewed research published in PubMed and confirmed by ESA's official mission reports.",
-      "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/19663764/",
-        "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Tiny_animals_survive_exposure_to_space"
-      ],
-      "deliveredAt": [
-        "2026-03-23T15:45:00+08:00"
-      ],
+      "sources": ["https://pubmed.ncbi.nlm.nih.gov/19663764/", "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Tiny_animals_survive_exposure_to_space"],
+      "deliveredAt": ["2026-03-23T15:45:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "onion-tear-gas",
+      "topic": "Food/Chemistry",
+      "fact": "When you cut an onion, a specialized enzyme called lachrymatory-factor synthase converts broken-cell chemicals into syn-propanethial-S-oxide — a volatile gas that triggers your tear glands. This defense mechanism evolved to deter animals from eating onions. Scientists only discovered this specific enzyme in 2002; before that, they blamed ordinary alliinase. Verified through crystal structure studies published in PMC and confirmed by the Library of Congress.",
+      "sources": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC5693239/", "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-does-chopping-an-onion-make-you-cry/", "https://edu.rsc.org/magnificent-molecules/propanethial-s-oxide/3010038.article"],
+      "deliveredAt": ["2026-03-23T16:30:00+08:00"],
       "count": 1
     }
   ],
