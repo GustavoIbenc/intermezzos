@@ -203,6 +203,14 @@
       "sources": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC12576410/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11940185/"],
       "deliveredAt": ["2026-03-23T22:30:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "volcano-jerk-warning",
+      "topic": "Volcanology/Geology",
+      "fact": "Scientists developed \"Jerk\" — a volcanic early warning system that detects tiny ground movements from rising magma using just one seismometer. Tested at La Réunion volcano for 10 years, it successfully predicted 92% of 24 eruptions between 2014-2023, with warnings ranging from minutes to 8.5 hours before eruption. The system catches ultra-low frequency signals from underground fracture openings, offering hope for monitoring previously unwatched volcanoes worldwide.",
+      "sources": ["https://www.sciencedaily.com/releases/2026/03/260315004411.htm", "https://www.nature.com/articles/s41467-025-66256-z", "https://volcano.si.edu/faq/index.cfm?question=eruptionforecast"],
+      "deliveredAt": ["2026-03-23T23:31:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
