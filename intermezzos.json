@@ -187,6 +187,14 @@
       "sources": ["https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect", "https://pubmed.ncbi.nlm.nih.gov/15990450/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC9028312/"],
       "deliveredAt": ["2026-03-23T21:00:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "pantheon-concrete-engineering",
+      "topic": "Architecture/Engineering",
+      "fact": "Rome's Pantheon has the world's largest unreinforced concrete dome at 43.3m diameter — still intact after 1,900 years. Roman engineers used a genius graduated concrete mix: heavy travertine at the base for strength, progressively lighter volcanic pumice toward the top. The dome thins from 5.9m at the base to just 1.5m near the oculus, while 28 coffers in 5 rings shave off hundreds of tons. Modern MIT/Harvard research confirms Roman concrete's self-healing properties through continued pozzolanic reactions.",
+      "sources": ["https://www.pantheonroma.com/en/2026/02/11/the-pantheon-dome-a-marvel-of-ancient-roman-architecture/", "https://www.pantheonrome.org/en/rome-pantheon/architecture/pantheon-architecture-dome-engineering", "https://www.openaccessgovernment.org/secret-ultradurable-ancient-roman-concrete-pantheon-history/151095/"],
+      "deliveredAt": ["2026-03-23T21:45:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
@@ -210,6 +218,7 @@
     "AI/Computing History",
     "Music/Sound Science",
     "Optical Illusions",
-    "Mathematics"
+    "Mathematics",
+    "Architecture/Engineering"
   ]
 }
