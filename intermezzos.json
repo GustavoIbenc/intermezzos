@@ -179,6 +179,14 @@
       "sources": ["https://www.scientificamerican.com/article/how-migrating-birds-use-quantum-effects-to-navigate/", "https://newsroom.ucla.edu/releases/birds-vagrancy-geomagnetic-field", "https://www.ox.ac.uk/news/science-blog/how-birds-sense-magnetic-field-earth-help-them-navigate"],
       "deliveredAt": ["2026-03-23T20:15:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "placebo-brain-chemistry",
+      "topic": "Medicine/Medical History",
+      "fact": "The placebo effect triggers real biochemical changes in your brain — not just imagination. When you expect relief, your brain releases endorphins and dopamine, the same chemicals produced by actual painkillers. Brain imaging shows placebos activate identical brain regions as real drugs, and researchers measured increased endorphin levels in cerebrospinal fluid of placebo responders. This means your mind can trigger genuine physiological healing responses through expectation alone.",
+      "sources": ["https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect", "https://pubmed.ncbi.nlm.nih.gov/15990450/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC9028312/"],
+      "deliveredAt": ["2026-03-23T21:00:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
