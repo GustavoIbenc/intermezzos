@@ -171,6 +171,14 @@
       "sources": ["https://en.wikipedia.org/wiki/Four_color_theorem", "https://mathshistory.st-andrews.ac.uk/HistTopics/The_four_colour_theorem/", "https://people.ucalgary.ca/~rzach/blog/2005/04/four-color-theorem-verified-in-coq.html"],
       "deliveredAt": ["2026-03-23T19:30:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "bird-magnetic-vision",
+      "topic": "Birds/Ornithology",
+      "fact": "Migrating birds can literally see Earth's magnetic field through specialized magnetoreceptors in their eyes. Scientific American (2024) confirms this uses quantum effects where light-sensitive molecules respond to magnetic fields. UCLA research (2023) showed solar activity disrupts this 'magnetic map,' causing birds to go astray. When geomagnetic disturbances occur, it's like navigating with a distorted compass — verified through decades of lab studies and ecological data tracking bird vagrancy patterns during solar storms.",
+      "sources": ["https://www.scientificamerican.com/article/how-migrating-birds-use-quantum-effects-to-navigate/", "https://newsroom.ucla.edu/releases/birds-vagrancy-geomagnetic-field", "https://www.ox.ac.uk/news/science-blog/how-birds-sense-magnetic-field-earth-help-them-navigate"],
+      "deliveredAt": ["2026-03-23T20:15:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
