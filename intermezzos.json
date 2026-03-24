@@ -294,6 +294,18 @@
       ],
       "deliveredAt": ["2026-03-24T07:21:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "perovskite-solar-breakthrough",
+      "topic": "Renewable Energy/Solar Technology",
+      "fact": "Perovskite solar cells are revolutionizing renewable energy by surpassing silicon's efficiency limits. Chinese manufacturer LONGi achieved 34.6% efficiency with perovskite-silicon tandem cells, while University of Surrey researchers extended lifespan tenfold using alumina nanoparticles to prevent iodine leakage. Nature Reviews Clean Technology (2026) confirms commercialization began this year with gigawatt-scale production facilities announced.",
+      "sources": [
+        "https://www.nature.com/articles/s44359-025-00128-z",
+        "https://www.sciencedaily.com/releases/2025/02/250227125758.htm",
+        "https://ceramics.org/ceramic-tech-today/perovskite-solar-cells-progress-2025/"
+      ],
+      "deliveredAt": ["2026-03-24T08:06:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
@@ -327,6 +339,7 @@
     "Forensics/Criminal Science",
     "Ocean/Climate Change",
     "Animal Consciousness",
-    "Neuroscience/Brain Training"
+    "Neuroscience/Brain Training",
+    "Renewable Energy/Solar Technology"
   ]
 }
