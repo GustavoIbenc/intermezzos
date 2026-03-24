@@ -318,6 +318,18 @@
       ],
       "deliveredAt": ["2026-03-24T08:51:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "astatine-rarest-element",
+      "topic": "Chemistry/Elements",
+      "fact": "Astatine is the rarest naturally occurring element on Earth — only about 70 milligrams exist in the entire Earth's crust at any given time. This radioactive halogen (element 85) decays so quickly that all its isotopes have half-lives under 8 hours. In 2026, University of Gothenburg researchers achieved a breakthrough by producing negative astatine ions at CERN, enabling the first detailed study of this elusive element's atomic structure.",
+      "sources": [
+        "https://www.gu.se/en/news/new-knowledge-about-the-worlds-rarest-element",
+        "https://sciencenotes.org/astatine-facts-the-rarest-natural-element/",
+        "https://en.wikipedia.org/wiki/Astatine"
+      ],
+      "deliveredAt": ["2026-03-24T09:36:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
