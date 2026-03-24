@@ -389,6 +389,18 @@
       ],
       "deliveredAt": ["2026-03-24T14:10:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "octopus-distributed-brain",
+      "topic": "Neuroscience/Animal Intelligence",
+      "fact": "Octopuses have a radically distributed brain: two-thirds of their 500 million neurons live in their arms, not their head. A September 2025 study analyzing 7,000 arm movements confirmed each arm can process information and make decisions independently — like having eight semi-autonomous minds. This decentralized cognition lets them solve puzzles, use tools, and multitask in ways that challenge everything we thought we knew about how intelligence works.",
+      "sources": [
+        "https://nature.sciencearray.com/octopus-intelligence-distributed-cognition-ai-robotics",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10740590/",
+        "https://timesofindia.indiatimes.com/etimes/trending/the-incredible-flexibility-and-intelligence-of-octopus-arms-shaping-the-future-of-robotics/articleshow/123920095.cms"
+      ],
+      "deliveredAt": ["2026-03-24T15:11:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
