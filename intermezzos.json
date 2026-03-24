@@ -366,6 +366,17 @@
       ],
       "deliveredAt": ["2026-03-24T12:08:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "hidden-antibiotic-discovery",
+      "topic": "Microbiology/Medicine",
+      "fact": "Scientists discovered two new antibiotics hiding in plain sight — one is 100x stronger than existing drugs against MRSA and VRE superbugs. UK researchers found pre-methylenomycin C lactone as an intermediate compound ignored for 50 years. Separately, McMaster University identified lariocidin, a lasso peptide from soil bacteria that attacks protein synthesis in entirely new ways, offering hope against antibiotic-resistant infections killing 4.5 million people annually.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2025/10/251029002855.htm",
+        "https://www.news-medical.net/news/20250326/Breakthrough-discovery-could-lead-to-new-class-of-antibiotics.aspx"
+      ],
+      "deliveredAt": ["2026-03-24T13:09:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
