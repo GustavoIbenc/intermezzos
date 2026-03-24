@@ -342,6 +342,18 @@
       ],
       "deliveredAt": ["2026-03-24T10:21:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "universal-cancer-vaccine-mrna",
+      "topic": "Vaccines/Immunology",
+      "fact": "University of Florida researchers developed a universal mRNA cancer vaccine that works without targeting specific tumors — it simply tricks your immune system into treating cancer like a viral infection. Published in Nature Biomedical Engineering (2025), the vaccine stimulates PD-L1 protein expression inside tumors, making them vulnerable to immunotherapy. In mouse studies, this one-two punch approach triggered strong anti-tumor responses across multiple cancer types, offering hope for treatment-resistant cancers.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12153701/",
+        "https://ufhealth.org/news/2025/surprising-finding-could-pave-way-for-universal-cancer-vaccine",
+        "https://www.nature.com/articles/s41551-025-01380-1"
+      ],
+      "deliveredAt": ["2026-03-24T11:06:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
