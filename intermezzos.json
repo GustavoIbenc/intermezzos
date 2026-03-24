@@ -451,6 +451,17 @@
       ],
       "deliveredAt": ["2026-03-24T19:18:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "dreams-emotional-therapy",
+      "topic": "Neuroscience/Dreams",
+      "fact": "Dreams actively help you forget emotionally painful memories while consolidating important ones. A 2024 Nature Scientific Reports study found people who recalled fear-related dreams showed decreased activation in fear-processing brain regions during wakefulness. A meta-analysis of 16 studies confirmed that dreaming about learned material significantly improves memory performance, with NREM sleep dreams showing stronger effects than REM dreams.",
+      "sources": [
+        "https://www.nature.com/articles/s41598-024-58170-z",
+        "https://pubmed.ncbi.nlm.nih.gov/37058584/"
+      ],
+      "deliveredAt": ["2026-03-24T20:03:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
@@ -486,6 +497,7 @@
     "Animal Consciousness",
     "Neuroscience/Brain Training",
     "Renewable Energy/Solar Technology",
-    "Ice Ages/Paleoclimatology"
+    "Ice Ages/Paleoclimatology",
+    "Neuroscience/Dreams"
   ]
 }
