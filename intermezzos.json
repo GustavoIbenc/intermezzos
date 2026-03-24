@@ -354,6 +354,18 @@
       ],
       "deliveredAt": ["2026-03-24T11:06:00+08:00"],
       "count": 1
+    },
+    {
+      "id": "jetlag-drug-mic628",
+      "topic": "Neuroscience/Sleep",
+      "fact": "Japanese scientists developed Mic-628, a drug that resets your body clock and cuts jet lag recovery nearly in half. Published in PNAS (2026), it activates the Per1 clock gene by binding to CRY1 protein, shifting both brain and organ clocks regardless of dosing time. In tests, mice recovered from 6-hour time shifts in 4 days instead of 7 — a breakthrough since advancing your clock (eastward travel) is harder than delaying it.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
+        "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+        "https://www.pew.org/en/research-and-analysis/articles/2026/03/09/how-do-circadian-rhythms-affect-human-health"
+      ],
+      "deliveredAt": ["2026-03-24T12:08:00+08:00"],
+      "count": 1
     }
   ],
   "topics": [
