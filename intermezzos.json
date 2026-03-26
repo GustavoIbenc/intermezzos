@@ -2,6 +2,14 @@
   "version": 1,
   "delivered": [
     {
+      "id": "ada-lovelace-first-program",
+      "topic": "AI/Computing History",
+      "fact": "Ada Lovelace wrote the world's first computer program in 1843 — a detailed algorithm for calculating Bernoulli numbers on Charles Babbage's Analytical Engine. Her \"Note G\" contained step-by-step instructions with loops and conditional logic, predating actual computers by a century. Though the Engine was never built, historians at Britannica and Max Planck Society confirm her work established the fundamental concept of software. She also predicted computers could compose music and create art, envisioning modern computing 100 years early.",
+      "sources": ["https://www.britannica.com/biography/Ada-Lovelace", "https://en.wikipedia.org/wiki/Note_G", "https://www.mpg.de/female-pioneers-of-science/Ada-Lovelace"],
+      "deliveredAt": ["2026-03-26T15:49:00+08:00"],
+      "count": 1
+    },
+    {
       "id": "spinosaurus-mirabilis-crest",
       "topic": "Paleontology/Dinosaurs",
       "fact": "Scientists discovered Spinosaurus mirabilis, a new species crowned with a massive scimitar-shaped crest that likely blazed with color during life. Found in Niger's central Sahara by a University of Chicago team led by Paul Sereno, this 95-million-year-old predator had interlocking teeth forming a deadly trap for fish. The discovery, published in Science (2026), marks the first indisputable new Spinosaurus species in over a century and challenges theories that all spinosaurs lived near coastlines.",
