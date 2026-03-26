@@ -2,6 +2,22 @@
   "version": 1,
   "delivered": [
     {
+      "id": "spinosaurus-mirabilis-crest",
+      "topic": "Paleontology/Dinosaurs",
+      "fact": "Scientists discovered Spinosaurus mirabilis, a new species crowned with a massive scimitar-shaped crest that likely blazed with color during life. Found in Niger's central Sahara by a University of Chicago team led by Paul Sereno, this 95-million-year-old predator had interlocking teeth forming a deadly trap for fish. The discovery, published in Science (2026), marks the first indisputable new Spinosaurus species in over a century and challenges theories that all spinosaurs lived near coastlines.",
+      "sources": ["https://www.sciencedaily.com/releases/2026/02/260222092251.htm", "https://biologicalsciences.uchicago.edu/news/new-scimitar-crested-spinosaurus-species-discovered-central-sahara", "https://theconversation.com/the-best-dinosaur-discoveries-of-2025-271224"],
+      "deliveredAt": ["2026-03-26T15:04:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "enzyme-catalysis-speed",
+      "topic": "Biochemistry/Chemistry",
+      "fact": "Enzymes can accelerate chemical reactions by over 100 trillion-fold. The enzyme urease converts urea to ammonia in fractions of a second — the same reaction would take about 4 years without catalysis. This extreme rate enhancement, verified through biochemistry research at NCBI and TU Delft, makes life possible by enabling metabolic reactions to occur on biologically relevant timescales.",
+      "sources": ["https://www.ncbi.nlm.nih.gov/books/NBK9921/", "https://interactivetextbooks.tudelft.nl/biochemistry/content/Chapter_3_Enzymes.html"],
+      "deliveredAt": ["2026-03-24T22:18:00+08:00"],
+      "count": 1
+    },
+    {
       "id": "octopus-hearts",
       "topic": "Animals/Biology",
       "fact": "Octopuses have three hearts. Two pump blood to the gills, one to the organs. The organ heart stops when swimming, so they prefer crawling.",
