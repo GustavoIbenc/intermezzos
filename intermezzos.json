@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Cancer metastasis genetic programming",
+      "fact": "Researchers confirmed last week that cancer metastasis is not random: colon tumour cells carry identifiable genetic patterns that pre-determine if they will spread through the body. This overturns decades of standard theory, and was published March 21 2026. This finding will allow early prediction of cancer spread risk before it occurs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_in_science",
+        "https://www.sciencedaily.com/"
+      ],
+      "deliveredAt": "2026-03-29T17:49:00Z",
+      "count": 1
+    },
+    {
       "id": "glymphatic-system-sleep-washing",
       "topic": "Neuroscience/Sleep",
       "fact": "Every time you fall asleep, your brain literally washes itself. Slow neuron firing rhythms pump cerebrospinal fluid through brain tissue, flushing out metabolic waste and toxic proteins that build up while you're awake. This glymphatic system only activates properly during deep sleep — there is no substitute. A 2026 study also found brief moments of inattention during the day trigger tiny emergency cleaning bursts when your brain can't wait for bedtime.",
