@@ -199,6 +199,17 @@
       "count": 1
     },
     {
+      "id": "white-sands-footprints-verified",
+      "topic": "Archaeology / Human Settlement",
+      "fact": "The White Sands human footprints were officially verified in February 2026 as the oldest confirmed evidence of humans in North America. Independent radiocarbon and luminescence dating confirms the prints are between 21,000 and 23,000 years old. This pushes back the arrival of humans on the continent by over 10,000 years, completely rewriting the accepted timeline of human settlement in the Americas. The footprints show adults and children walking across an ancient lake bed, captured perfectly in soft gypsum mud.",
+      "sources": [
+        "https://www.science.org/doi/10.1126/science.adh5007",
+        "https://www.sciencedaily.com/releases/2023/10/231005161809.htm"
+      ],
+      "deliveredAt": "2026-03-29T23:49:00Z",
+      "count": 1
+    },
+    {
       "id": "brain-led-power",
       "topic": "Neuroscience/Human Body",
       "fact": "Your brain generates enough electricity to power a small LED light bulb. While you're reading this, roughly 80-100 billion neurons are firing electrical signals simultaneously, producing about 20 watts of power — comparable to a dim household bulb. This bioelectricity comes from ion movement across neuron membranes, measured through EEG and confirmed by neurophysiology research at institutions like NIH and MIT. Every thought, memory, and sensation is literally an electrical event, making your skull the most sophisticated power plant in the known universe.",
