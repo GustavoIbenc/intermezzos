@@ -2,6 +2,14 @@
   "version": 1,
   "delivered": [
     {
+      "id": "glymphatic-system-sleep-washing",
+      "topic": "Neuroscience/Sleep",
+      "fact": "Every time you fall asleep, your brain literally washes itself. Slow neuron firing rhythms pump cerebrospinal fluid through brain tissue, flushing out metabolic waste and toxic proteins that build up while you're awake. This glymphatic system only activates properly during deep sleep — there is no substitute. A 2026 study also found brief moments of inattention during the day trigger tiny emergency cleaning bursts when your brain can't wait for bedtime.",
+      "sources": ["https://medicine.washu.edu/news/neurons-help-flush-waste-out-of-brain-during-sleep/", "https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep", "https://www.sciencedaily.com/releases/2026/01/260119234937.htm"],
+      "deliveredAt": ["2026-03-30T01:04:00+08:00"],
+      "count": 1
+    },
+    {
       "id": "east-tokamak-greenwald-limit",
       "topic": "Nuclear Fusion/Plasma Physics",
       "fact": "China's EAST tokamak team just achieved the first experimental verification of a density-free plasma regime, running stable electron densities 1.3–1.65 times the theoretical Greenwald limit. Published 2 days ago in 2026, this breaks the long-accepted hard density ceiling for fusion reactors. This result means future tokamaks could operate at far higher power densities than previously thought possible, drastically reducing the size and cost of commercial fusion plants.",
