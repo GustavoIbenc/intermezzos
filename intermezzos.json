@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "hadal-snailfish-pressure-adaptation",
+      "topic": "Marine Biology / Deep Sea Adaptation",
+      "fact": "Hadal snailfish living 7 kilometres deep in the Mariana Trench survive 700 atmospheres of pressure not by having stronger bodies — they do it by breaking their own proteins on purpose. Their genome carries mutations that make every structural protein in their cells slightly floppy, so crushing pressure cannot unfold and destroy them. This counterintuitive adaptation means every protein in their body is just stable enough to work at ocean floor pressure, but would spontaneously fall apart if you brought them to the surface.",
+      "sources": [
+        "https://www.nature.com/articles/s41559-019-0864-8",
+        "https://elifesciences.org/articles/90216"
+      ],
+      "deliveredAt": "2026-03-29T20:04:00Z",
+      "count": 1
+    },
+    {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Astronomy / Fast Radio Bursts",
       "fact": "Fast radio bursts—those millisecond-long cosmic flashes that puzzled astronomers for 17 years—were confirmed this year to originate from magnetars in binary star systems. Observations published January and March 2026 show repeating bursts only occur when the highly magnetic neutron star passes behind plasma ejected by its orbiting companion. This solves one of the biggest open mysteries in modern astrophysics.",
