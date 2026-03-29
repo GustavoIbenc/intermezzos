@@ -193,6 +193,17 @@
       "count": 1
     },
     {
+      "id": "ceru4sn6-quantum-state-discovery",
+      "topic": "Quantum Physics / Condensed Matter",
+      "fact": "Researchers announced this week the discovery of an entirely new quantum state that bridges quantum criticality and topological order, observed in the semimetal CeRu₄Sn₆. Published March 2026, this hybrid state exhibits properties of both disordered quantum critical points and protected topological phases — something theorists predicted but no one had ever observed experimentally. This finding resolves a 15 year old open question in condensed matter physics, and could enable entirely new classes of quantum computing components that are immune to environmental noise.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2026_in_science",
+        "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch"
+      ],
+      "deliveredAt": "2026-03-29T20:49:00Z",
+      "count": 1
+    },
+    {
       "id": "tardigrade-cryptobiosis",
       "topic": "Biology/Animals",
       "fact": "Tardigrades—also called water bears—are microscopic animals that can survive complete dehydration for decades. When they dry out, they enter a \"tun state,\" suspending their metabolism to nearly zero. Scientists have successfully revived tardigrades after 30 years in this dormant state, making them arguably Earth's most resilient multicellular life form. This cryptobiosis ability has been verified through peer-reviewed experiments at institutions like NASA and the Japanese National Institute for Physiological Sciences.",
