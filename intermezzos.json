@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "continental-drift-glacier-acceleration",
+      "topic": "Geology / Plate Tectonics",
+      "fact": "When the last Ice Age ended 11,000 years ago, melting glaciers removed so much weight from the continents that continental drift speed doubled for over 2,000 years. Published April 2025 in Nature, GPS and ice core data confirm that lighter continents slid faster across the mantle, triggering a global pulse of volcanic eruptions that lasted millenia. This shows surface ice levels directly control the speed of plate tectonics — an effect no one predicted existed.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2025/04/250423111911.htm",
+        "https://doi.org/10.1038/s41586-025-08846-x"
+      ],
+      "deliveredAt": "2026-03-29T22:19:00Z",
+      "count": 1
+    },
+    {
       "id": "hadal-snailfish-pressure-adaptation",
       "topic": "Marine Biology / Deep Sea Adaptation",
       "fact": "Hadal snailfish living 7 kilometres deep in the Mariana Trench survive 700 atmospheres of pressure not by having stronger bodies — they do it by breaking their own proteins on purpose. Their genome carries mutations that make every structural protein in their cells slightly floppy, so crushing pressure cannot unfold and destroy them. This counterintuitive adaptation means every protein in their body is just stable enough to work at ocean floor pressure, but would spontaneously fall apart if you brought them to the surface.",
