@@ -201,6 +201,19 @@
       "id": "honey-fungus-oregon",
       "topic": "Botany/Plants",
       "fact": "The largest living organism on Earth is a honey fungus in Oregon's Malheur National Forest, covering 2,385 acres underground and estimated to be 2,400-8,650 years old. USDA Forest Service scientists confirmed it's genetically identical across the entire area through DNA testing. It spreads through rhizomorphs — black shoestring-like structures that hunt for tree roots.",
+      "deliveredAt": ["2026-03-23T06:45:00+08:00"],
+      "count": 1
+    },
+    {
+      "id": "hydrogen-sulfide-superconductor-tunneling",
+      "topic": "Materials Science / Superconductivity",
+      "fact": "In December 2025 researchers directly measured the superconducting state of hydrogen sulfide for the first time using a novel quantum tunneling method. They confirmed exactly how electrons pair in this material, which becomes superconducting at 203 Kelvin (-70°C) under pressure. This resolves the largest outstanding mystery about high temperature superconductors, and removes the last major theoretical barrier to creating room temperature ambient pressure superconductors.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2025/12/251219093328.htm",
+        "https://phys.org/news/2026-03-room-temperature-superconductor-scientists-agenda.html"
+      ],
+      "deliveredAt": "2026-03-30T05:04:00Z",
+      "count": 1
       "deliveredAt": ["2026-03-23T07:30:00+08:00"],
       "count": 1
     },
