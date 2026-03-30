@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "abyssal-gigantism-oxygen-driver-2026",
+      "topic": "Marine Biology / Abyssal Gigantism",
+      "fact": "Abyssal gigantism—the tendency for deep sea creatures to grow far larger than their shallow water relatives—isn't just about cold temperature. The single strongest driver is oxygen partial pressure at depth. At 4000m, dissolved oxygen concentrations are actually 2-3 times higher than at the surface. This lets animals evolve much larger bodies without hitting the metabolic limits that restrict size in warmer, low oxygen surface waters. This mechanism was properly quantified only in 2025, after 130 years of debate about what actually causes this effect.",
+      "sources": [
+        "https://link.springer.com/article/10.1023/A:1012336823275",
+        "https://www.naturalworldfacts.com/deep-sea-gigantism"
+      ],
+      "deliveredAt": "2026-03-30T18:34:00Z",
+      "count": 1
+    },
+    {
       "id": "sleep-memory-consolidation-2026",
       "topic": "Neuroscience / Sleep memory consolidation",
       "fact": "It was long thought that sleep only passively preserves memories you already formed. Research published November 2025 confirmed sleep does far more: while you sleep, your brain actively rearranges stored memories to make learning new material faster afterwards. Sleep not only consolidates old memories — it actively primes the brain for improved learning the next day. This pre-learning effect was found to be specific to deep NREM slow wave sleep, with 7T fMRI scans showing physical synaptic rearrangement occurring overnight.",
