@@ -199,6 +199,17 @@
       "count": 1
     },
     {
+      "id": "lunar-regolith-solar-wind-water",
+      "topic": "Planetary Science / Lunar Water",
+      "fact": "Every grain of dust on the Moon is slowly being turned into water. Solar wind hydrogen atoms crash into lunar regolith minerals, breaking oxygen bonds right inside the crystal structure. This process runs continuously, producing about 200 parts per million of water stored in the top few nanometres of every rock grain. Published November 2025, lab experiments confirmed this happens automatically with no atmosphere required — meaning every airless rocky body in the solar system is also quietly making water right on its surface.",
+      "sources": [
+        "https://phys.org/news/2025-11-lunar-solar-latitude-regolith-maturity.html",
+        "https://phys.org/news/2025-04-nasa-solar-moon.html"
+      ],
+      "deliveredAt": "2026-03-30T07:19:00Z",
+      "count": 1
+    },
+    {
       "id": "voynich-manuscript",
       "topic": "Linguistics",
       "fact": "The Voynich Manuscript has defeated every cryptographer for 600+ years, including WWII codebreakers. Carbon-dated to 1404-1438, this 240-page book uses an unknown writing system that no one has deciphered. We can analyze the ink and parchment, but whether it contains real language or elaborate nonsense remains linguistics' greatest unsolved mystery.",
