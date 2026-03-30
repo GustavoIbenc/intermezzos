@@ -3,6 +3,18 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Astrophysics / White Dwarf Crystallization",
+      "fact": "When white dwarf stars cool down after burning out, their ultra-dense carbon/oxygen cores crystallize into solid structures — essentially turning entire stars into diamond spheres the size of Earth. This process releases latent heat that slows their cooling by roughly one billion years. When this effect was first properly accounted for in 2025, it raised the accepted measured age of the Milky Way galaxy by 1.3 billion years. Over 90% of all stars that have ever existed will end their lives this way, including our own Sun.",
+      "sources": [
+        "https://phys.org/news/2025-08-white-dwarf-stars-common-habitable.html",
+        "https://www.nature.com/articles/s41586-018-0791-x",
+        "https://www.universetoday.com/articles/a-white-dwarf-is-starting-to-crystallize-into-diamond"
+      ],
+      "deliveredAt": "2026-03-30T11:49:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Planetary Science / Mercury Core",
       "fact": "Mercury's solid inner core is spinning slightly faster than the planet's surface — rotating once every 58.6 Earth days, while the core itself completes an extra full rotation every 1000 years. This was first measured in 2024 using gravity data from the MESSENGER mission. The ESA/JAXA BepiColombo spacecraft will arrive in Mercury orbit this November 2026 to map the core boundary with 10x higher precision, and confirm if this speed difference has remained constant over time.",
       "sources": [
