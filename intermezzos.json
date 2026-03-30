@@ -3,6 +3,18 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Paleogenetics / Denisovan Admixture",
+      "fact": "Modern humans carry not just 1-4% Neanderthal DNA — everyone living outside Africa also inherited 0.2-0.6% Denisovan DNA from a separate extinct hominin species. These fragments are not leftover junk: Denisovan genes actively modulate modern human immune response, high altitude tolerance, and fat metabolism. A 2025 full genome analysis confirmed at least three separate interbreeding events happened between Denisovans and early modern humans, spread across 50,000 years of prehistory.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9741939/",
+        "https://en.wikipedia.org/wiki/Denisovan",
+        "https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals"
+      ],
+      "deliveredAt": "2026-03-30T08:49:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Microbiology / Bacteriophage Therapy",
       "fact": "Bacteriophages — viruses that hunt and kill only bacteria — were discovered 100 years ago, then abandoned for antibiotics until now. Modern 2025-2026 clinical research confirms they can safely treat multi-drug resistant infections that no antibiotic will touch. Unlike antibiotics which wipe out entire microbiomes, phages target only the exact harmful bacteria species. They can also cross the human intestinal barrier even when healthy, which researchers had believed impossible until last year.",
       "sources": [
