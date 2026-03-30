@@ -13,6 +13,18 @@
       "count": 1
     },
     {
+      "id": "physarum-slime-mold-intelligence",
+      "topic": "Biology / Unconventional Intelligence",
+      "fact": "The slime mold Physarum polycephalum has no brain, no neurons, and no nervous system at all — yet it can solve mazes, remember paths, predict events, and reconstruct accurate maps of human transportation networks. It leaves behind slime trails to mark where it has already explored, effectively building an external memory outside its own body. First demonstrated in 2000 in *Nature*, this single-celled organism completely redefines what intelligence can look like.",
+      "sources": [
+        "https://www.nature.com/articles/35035159",
+        "https://www.scientificamerican.com/article/brainless-slime-molds/",
+        "https://www.mbl.edu/news/how-can-slime-mold-solve-maze-physiology-course-finding-out"
+      ],
+      "deliveredAt": "2026-03-30T02:49:00Z",
+      "count": 1
+    },
+    {
       "id": "avian-quantum-magnetoreception",
       "topic": "Quantum Biology / Animal Navigation",
       "fact": "Migrating birds navigate thousands of miles using actual quantum physics. Their eyes contain cryptochrome 4 proteins where single electrons become separated and remain quantum entangled for milliseconds — millions of times longer than man-made quantum systems at room temperature. This fragile quantum state is sensitive enough to detect the Earth's magnetic field. This isn't theory: it was experimentally verified at Oxford University and published March 2025, making birds the only known living thing that naturally uses quantum coherence as a sensory organ.",
