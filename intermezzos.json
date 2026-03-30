@@ -201,6 +201,17 @@
       "count": 1
     },
     {
+      "id": "mycorrhizal-network-carbon-transfer",
+      "topic": "Forest Ecology / Mycorrhizal Networks",
+      "fact": "Trees in intact forests share up to 40% of their fixed carbon through underground fungal networks. Mature mother trees actively send sugars and nutrients to shaded seedlings, and even send warning signals when attacked by insects. This is not an accident: 2025 field studies confirmed trees preferentially support their own genetic offspring through these networks, effectively operating forest-wide resource distribution systems. Every tree you see above ground is connected to every other tree below ground.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10751480/",
+        "https://journal.hep.com.cn/fase/EN/PDF/10.15302/J-FASE-2024578"
+      ],
+      "deliveredAt": "2026-03-30T03:34:00Z",
+      "count": 1
+    },
+    {
       "id": "blue-whale-lowest-note",
       "topic": "Music/Sound Science",
       "fact": "Blue whales produce the lowest musical notes ever recorded—down to 14 Hz, below human hearing. NOAA researchers verified these calls travel over 1,000 miles underwater, making whale song Earth's longest-distance natural communication system.",
