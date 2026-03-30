@@ -3,6 +3,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Planetary Science / Enceladus Ocean Phosphorus",
+      "fact": "Saturn's moon Enceladus has a subsurface ocean where all six chemical elements required for life as we know it have now been detected. Phosphorus, the last missing bioessential element, was confirmed in 2025 analysis of Cassini plume data. The ocean also contains dissolved organic carbon, nitrogen, oxygen, sulphur, and hydrogen with concentrations matching habitable Earth environments. This makes Enceladus the only confirmed place outside Earth with every prerequisite for biology present.",
+      "sources": [
+        "https://www.nature.com/articles/s41586-023-05987-9",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0019103525002659"
+      ],
+      "deliveredAt": "2026-03-30T09:34:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Paleogenetics / Denisovan Admixture",
       "fact": "Modern humans carry not just 1-4% Neanderthal DNA — everyone living outside Africa also inherited 0.2-0.6% Denisovan DNA from a separate extinct hominin species. These fragments are not leftover junk: Denisovan genes actively modulate modern human immune response, high altitude tolerance, and fat metabolism. A 2025 full genome analysis confirmed at least three separate interbreeding events happened between Denisovans and early modern humans, spread across 50,000 years of prehistory.",
       "sources": [
