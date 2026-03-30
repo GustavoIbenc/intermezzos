@@ -203,6 +203,17 @@
       "count": 1
     },
     {
+      "id": "whale-fall-sulphophilic-community-2026",
+      "topic": "Marine Biology / Deep Sea Whale Falls",
+      "fact": "When a whale dies and sinks to the abyssal ocean floor, it creates an entire isolated ecosystem that can support specialised life for over 150 years. A March 2026 study found that the final sulphophilic stage, where bacteria break down whale bone lipids, lasts far longer than previously thought — individual whale falls have now been observed supporting active communities for over 80 years, and modelling predicts maximum lifespans exceeding two centuries. A single whale carcass delivers the same amount of organic carbon that would normally fall to that area of seafloor over 2000 years.",
+      "sources": [
+        "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1770207/full",
+        "https://phys.org/news/2026-03-whale-falls-meters-deep-species.html"
+      ],
+      "deliveredAt": "2026-03-30T23:04:00Z",
+      "count": 1
+    },
+    {
       "id": "octopus-rem-sleep-dreaming-nature",
       "topic": "Neuroscience / Octopus Sleep",
       "fact": "Octopuses have two distinct sleep stages exactly like humans: slow wave deep sleep and REM active sleep. During their REM phase they cycle through all their skin patterns, replaying sequences they learned while awake. This was formally confirmed in 2023 with direct neural recordings, and replicated independently in 2026. This means REM sleep evolved at least twice completely separately, once in vertebrates and once in cephalopods — over 500 million years apart.",
