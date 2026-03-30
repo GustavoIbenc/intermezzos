@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "carboniferous-oxygen-giant-insects-2026",
+      "topic": "Paleontology / Carboniferous Giant Insects",
+      "fact": "300 million years ago during the Carboniferous period, Earth's atmosphere contained 35% oxygen — almost double the 21% we have today. This is why dragonflies with 70cm wingspans and 2.5 metre long millipedes existed: insects breathe passively through tiny tracheal tubes, which place hard upper limits on maximum body size at modern oxygen levels. When oxygen concentrations dropped at the end of the Permian period, every one of these giant insect species went extinct permanently, and none have ever evolved again.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2880098/",
+        "https://www.nationalgeographic.com/science/article/110808-ancient-insects-bugs-giants-oxygen-animals-science"
+      ],
+      "deliveredAt": "2026-03-30T21:34:00Z",
+      "count": 1
+    },
+    {
       "id": "abyssal-gigantism-oxygen-driver-2026",
       "topic": "Marine Biology / Abyssal Gigantism",
       "fact": "Abyssal gigantism—the tendency for deep sea creatures to grow far larger than their shallow water relatives—isn't just about cold temperature. The single strongest driver is oxygen partial pressure at depth. At 4000m, dissolved oxygen concentrations are actually 2-3 times higher than at the surface. This lets animals evolve much larger bodies without hitting the metabolic limits that restrict size in warmer, low oxygen surface waters. This mechanism was properly quantified only in 2025, after 130 years of debate about what actually causes this effect.",
