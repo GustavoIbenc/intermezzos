@@ -110,6 +110,17 @@
       ],
       "deliveredAt": "2026-03-31T18:34:00Z",
       "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Jupiter lightning power measurements",
+      "fact": "On March 23 2026 researchers published final measurements from NASA Juno spacecraft data confirming individual lightning bolts on Jupiter can be between 100 and one million times more powerful than lightning on Earth. The measurement used captured radio emissions from lightning discharges, which allowed for the first direct accurate power calculation rather than indirect optical estimates. This resolves 40 years of debate over the actual strength of Jovian lightning since Voyager first detected it in 1979.",
+      "sources": [
+        "https://earthsky.org/space/lightning-on-jupiter-storms-earth-juno/",
+        "https://dailygalaxy.com/2026/03/jupiters-lightning-stronger-than-earths/"
+      ],
+      "deliveredAt": "2026-03-31T19:19:00Z",
+      "count": 1
     }
   ]
 }
