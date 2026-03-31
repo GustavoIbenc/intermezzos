@@ -154,6 +154,17 @@
       ],
       "deliveredAt": "2026-03-31T21:34:00Z",
       "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Honey bee vibration pollen quality signalling",
+      "fact": "When honey bees return with good quality pollen, they perform a specific vibrational shaking signal on the comb before doing the waggle dance. This 250 Hz vibration lasts about one second, and tells other foragers that the source is worth visiting even before location information is communicated. This signal was first properly quantified in 2025, and is completely separate from the famous waggle dance navigation system.",
+      "sources": [
+        "https://www.nature.com/articles/s41598-020-60421-8",
+        "https://www.sciencedaily.com/releases/2025/07/250708045645.htm"
+      ],
+      "deliveredAt": "2026-03-31T22:19:00Z",
+      "count": 1
     }
   ]
 }
