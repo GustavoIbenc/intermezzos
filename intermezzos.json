@@ -132,6 +132,17 @@
       ],
       "deliveredAt": "2026-03-31T20:04:00Z",
       "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Moon permanently shadowed craters water ice purity",
+      "fact": "New 2026 data from NASA ShadowCam on the Danuri mission shows that ice in the Moon's permanently shadowed south pole craters is far less pure and far more mixed with lunar regolith than all prior estimates. Most deposits are only 10-20% ice by volume, embedded as fine scattered grains rather than solid sheets. This revision is the first direct high resolution imaging of these craters, and dramatically changes planning for future lunar surface missions which had been counting on concentrated accessible water resources.",
+      "sources": [
+        "https://www.dongascience.com/en/news/76931",
+        "https://aasnova.org/2024/02/12/water-ice-weathering-in-permanently-shadowed-craters-on-the-moon/"
+      ],
+      "deliveredAt": "2026-03-31T20:49:00Z",
+      "count": 1
     }
   ]
 }
