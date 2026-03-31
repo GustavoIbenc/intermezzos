@@ -193,6 +193,17 @@
     {
       "id": "ant-mill-death-spiral-phenomenon",
       "topic": "Biology / Ant mill death spiral",
+      "fact": "Army ants are blind and navigate entirely by following the pheromone trail of the ant directly in front of them. When this loop closes by accident, every ant will continue walking in an endless circle until they drop dead from exhaustion. This is called an ant mill, or death spiral. The phenomenon was first documented in 1921, and recorded mills have contained over 1200 ants, running continuously for more than 36 hours. This is not a deliberate behaviour: it is an emergent failure mode of the exact same tracking system that makes army ant colonies one of the most effective foraging organisms on Earth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ant_mill",
+        "https://www.treehugger.com/why-do-army-ants-commit-suicide-4863955"
+      ],
+      "deliveredAt": "2026-03-31T07:19:00Z",
+      "count": 1
+    },
+    {
+      "id": "ant-mill-death-spiral-phenomenon",
+      "topic": "Biology / Ant mill death spiral",
       "fact": "Army ants are completely blind, and navigate exclusively by following the pheromone trail left by the ant immediately in front of them. If this trail accidentally loops back on itself, the entire column will become trapped in an endlessly rotating circle known as an ant mill. The ants will continue running in this perfect loop until every single one dies from exhaustion. This is a catastrophic failure mode of the exact same collective navigation algorithm that normally makes army ant colonies one of the most effective foraging systems on Earth.",
       "sources": [
         "https://en.wikipedia.org/wiki/Ant_mill",
