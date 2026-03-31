@@ -3,6 +3,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Food Science / Honey Permanent Preservation",
+      "fact": "Properly sealed pure honey is the only known food that will never spoil. Archaeologists have found perfectly edible jars of honey in ancient Egyptian tombs that were buried over 3200 years ago. This immortality comes from three properties: extremely low water content, natural acidity, and hydrogen peroxide produced continuously by glucose oxidase enzymes. No bacteria or fungus can survive in this environment, meaning honey will remain edible for longer than human civilization has existed.",
+      "sources": [
+        "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
+        "https://earthlymission.com/honey-basically-never-spoils-it-has-been-found-in-millennia-old-tombs-in-perfectly-edible-condition/"
+      ],
+      "deliveredAt": "2026-03-31T03:34:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Climate Science / Ocean Heat Memory",
       "fact": "Over 90% of all excess heat trapped by greenhouse gases since 1970 has been absorbed by the world's oceans. This heat has a very long memory: even if all human emissions stopped completely tomorrow, the oceans would continue releasing this stored heat for at least another 35 to 40 years. This means approximately half of all warming that we have already committed to has not yet appeared in surface air temperatures. This lag effect was confirmed in January 2026 when the global ocean set yet another consecutive annual heat content record.",
       "sources": [
