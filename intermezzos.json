@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "glial-neuron-ratio-myth-2026",
+      "topic": "Neuroscience / Glia neuron ratio myth",
+      "fact": "For over 50 years every textbook claimed human brains had 10 glial cells for every 1 neuron, a 10:1 ratio. This was completely wrong. Modern counting methods published in 2016 and confirmed repeatedly since show the actual overall ratio is almost exactly 1:1, with only very small regional variation. The original 10:1 number was never based on actual data — it was an offhand estimate made in 1957 that got copied unchallenged for half a century.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5063692/",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.24040"
+      ],
+      "deliveredAt": "2026-03-31T04:19:00Z",
+      "count": 1
+    },
+    {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Food Science / Honey Permanent Preservation",
       "fact": "Properly sealed pure honey is the only known food that will never spoil. Archaeologists have found perfectly edible jars of honey in ancient Egyptian tombs that were buried over 3200 years ago. This immortality comes from three properties: extremely low water content, natural acidity, and hydrogen peroxide produced continuously by glucose oxidase enzymes. No bacteria or fungus can survive in this environment, meaning honey will remain edible for longer than human civilization has existed.",
