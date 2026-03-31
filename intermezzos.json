@@ -2,6 +2,17 @@
   "version": 1,
   "delivered": [
     {
+      "id": "axolotl-negligible-senescence-2026",
+      "topic": "Biology / Axolotl negligible senescence",
+      "fact": "Mexican axolotls do not appear to undergo biological aging the way almost all other animals do. A February 2026 study confirmed that axolotls show zero measurable reproductive senescence across their entire lifespan, and retain full regenerative ability until death. They are the largest vertebrate known to exhibit negligible senescence: there is no measurable increase in mortality rate with age, and no functional decline over time.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7214127/",
+        "https://link.springer.com/article/10.1186/s12915-026-02545-3"
+      ],
+      "deliveredAt": "2026-03-31T05:49:00Z",
+      "count": 1
+    },
+    {
       "id": "olfactory-single-molecule-sensitivity-2026",
       "topic": "Neuroscience / Human olfactory receptor single molecule detection",
       "fact": "Human olfactory receptors are sensitive enough to detect a single individual molecule of an odorant. This is the absolute physical limit of chemical sensing — no detector can respond to less than one molecule. When confirmed experimentally in January 2026, this meant human smell was found to be over 1000 times more sensitive than all prior measurements had estimated. This resolution is so high that you can literally smell individual atoms arriving at your nose.",
