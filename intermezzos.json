@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Squid giant axon local RNA editing",
+      "fact": "Unlike every other animal studied, squid do not perform all RNA editing inside the cell nucleus. Instead they actively edit over 60,000 different RNA sites locally inside the giant axon itself, far away from the cell body. This allows them to reconfigure neural protein function on demand at individual synapses, without altering the original genetic code. This mechanism was first confirmed in 2020 at the Marine Biological Laboratory, and has since been verified across all decapod cephalopod species.",
+      "sources": [
+        "https://www.mbl.edu/news/new-genetic-editing-powers-discovered-squid",
+        "https://www.eurekalert.org/news-releases/714520"
+      ],
+      "deliveredAt": "2026-04-01T07:19:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Mars solid inner core confirmation",
       "fact": "In December 2025 final analysis of NASA InSight mission seismic data confirmed Mars has a 600 km radius solid iron-nickel inner core, surrounded by a fully liquid outer core. This resolved a 50 year old debate about Mars interior structure, and explains why the planet lost its global magnetic field 4 billion years ago. The measurements were independently verified and published simultaneously in both Nature and Science journals.",
       "sources": [
