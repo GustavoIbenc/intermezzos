@@ -199,6 +199,17 @@
       ],
       "deliveredAt": "2026-04-01T00:34:00Z",
       "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Desert ant dual navigation odometry",
+      "fact": "Desert ants use two completely independent odometry systems running in parallel at all times. They count every individual step they take, and simultaneously track visual optic flow across their field of view. Each system cross checks the other, and they will stop and recalibrate if the two measurements disagree by more than 15%. This redundant dual system is what allows them to navigate perfectly straight paths over kilometres of completely featureless desert terrain with zero accumulated drift.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2024/07/240717162408.htm",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12445746/"
+      ],
+      "deliveredAt": "2026-04-01T01:19:00Z",
+      "count": 1
     }
   ]
 }
