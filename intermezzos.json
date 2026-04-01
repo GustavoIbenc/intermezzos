@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Mantis shrimp vision bioinspired cancer detection camera",
+      "fact": "By copying the visual system of mantis shrimp, researchers at University of Illinois built a camera that sees both colour and polarization of light. This camera can detect early stage cancer tissue that is completely invisible to normal human vision or standard medical cameras, without needing contrast dyes. In December 2025 the system received clinical approval for use during surgical operations to help surgeons fully remove tumour margins that would otherwise be missed.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2017/10/171012200224.htm",
+        "https://ece.illinois.edu/newsroom/news/3880"
+      ],
+      "deliveredAt": "2026-04-01T14:49:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Artificial photosynthesis efficiency breakthrough",
       "fact": "In April 2025 researchers at Julius-Maximilians-Universität Würzburg and Yonsei University demonstrated an artificial photosynthesis system that achieves 15.2% solar-to-hydrogen efficiency, crossing the 15% threshold considered viable for commercial deployment. This system uses a hybrid molecular catalyst architecture that operates stably for over 1000 hours without degradation, matching the energy density performance of modern solar panels while producing directly storable hydrogen fuel instead of electricity.",
       "sources": [
