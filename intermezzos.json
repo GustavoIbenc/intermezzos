@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "naked mole rat cancer resistance",
+      "fact": "It was discovered this year that naked mole rats do not actually *never* get cancer — they just require three simultaneous genetic failures to form tumours, whereas mice need only one. Even then only 30% develop tumours, and they grow 10x slower than in other mammals.",
+      "sources": [
+        "https://link.springer.com/article/10.1007/s42991-025-00549-0",
+        "https://aacrjournals.org/cancerdiscovery/article-abstract/16/1/7/771232/Testing-Nature-s-Defenses-Inducing-Cancer-in-the"
+      ],
+      "deliveredAt": "2026-04-02T07:05:00+08:00",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Octopus sleep state cycles",
       "fact": "Octopuses have two distinct sleep states, just like humans: quiet deep sleep, and an active REM-like sleep state. During active sleep their skin changes colour patterns, their eyes move, and their arms twitch exactly like when they are awake. Each sleep cycle lasts roughly 30 minutes total, with the active dreaming phase only lasting 60 to 90 seconds at a time. Octopuses spend less than 5% of their total sleep time in this active dreaming state.",
       "sources": [
