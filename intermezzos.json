@@ -200,6 +200,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Crocodile heart right to left shunt digestion function",
+      "fact": "Crocodiles and alligators are the only vertebrates with a fully four chambered heart that can intentionally bypass their own lungs. This right-to-left cardiac shunt is not an evolutionary leftover: it actively redirects deoxygenated blood directly to the stomach after feeding, doubling the production of gastric acid and allowing them to digest bone and large prey. When the shunt is surgically disabled, crocodiles cannot digest bones at all and take three times longer to process meals.",
+      "sources": [
+        "https://www.journals.uchicago.edu/doi/full/10.1086/524150",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2905305/"
+      ],
+      "deliveredAt": "2026-04-01T20:05:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Hummingbird overnight torpor physiology",
       "fact": "Every night hummingbirds enter deep torpor, dropping their body temperature as low as 3.3°C — the coldest recorded body temperature for any bird or non-hibernating mammal. Their heart rate falls from over 1200 beats per minute during flight down to just 50 beats per minute, reducing energy consumption by 95%. Without this nightly shutdown they would starve to death before sunrise. This extreme physiological adaptation was fully verified in wild Andean hummingbird populations in 2025.",
       "sources": [
