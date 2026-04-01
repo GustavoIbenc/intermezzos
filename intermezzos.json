@@ -200,6 +200,17 @@
       "count": 1
     },
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Moss cyanobacteria nitrogen fixation symbiosis",
+      "fact": "Nearly all common moss species form obligate symbioses with nitrogen-fixing cyanobacteria living between their leaf cells. These associations are responsible for over 70% of all natural nitrogen input into boreal and tundra ecosystems, more than all atmospheric deposition combined. Unlike agricultural nitrogen fixation which requires enormous energy inputs, this process operates passively at ambient temperatures and requires no external inputs.",
+      "sources": [
+        "https://pubs.acs.org/doi/abs/10.1021/es3018539",
+        "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18264"
+      ],
+      "deliveredAt": "2026-04-01T12:34:00Z",
+      "count": 1
+    },
+    {
       "id": "f1d4a7c2-0e8b-4d9c-9a7e-2f5b8c3d6e1a",
       "topic": "Human functional olfactory receptor count",
       "fact": "Humans only have 394 confirmed fully functional olfactory receptor genes, not the 400 that was the standard figure for 22 years. Updated whole-genome sequencing published in March 2026 verified that 24 previously counted genes are actually silent pseudogenes, while 18 previously discarded genes were found to be functional. This revision resolves decades of conflicting measurement results across different population studies.",
