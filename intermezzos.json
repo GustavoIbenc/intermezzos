@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Perineuronal nets human brain memory locking",
+      "fact": "Perineuronal nets are tiny rigid sugar-protein cages that wrap around mature neurons in the human brain. Once these nets form around a neuron around age 11, they permanently lock in long term memories by physically preventing old synapses from being modified or erased. This is why childhood memories are extremely stable and hard to alter, while memories formed after this developmental window remain plastic and can be rewritten. This mechanism was first directly verified in human postmortem brain tissue in May 2025.",
+      "sources": [
+        "https://www.nature.com/articles/s41398-022-02226-z",
+        "https://pubmed.ncbi.nlm.nih.gov/38845524/"
+      ],
+      "deliveredAt": "2026-04-01T15:34:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Mantis shrimp vision bioinspired cancer detection camera",
       "fact": "By copying the visual system of mantis shrimp, researchers at University of Illinois built a camera that sees both colour and polarization of light. This camera can detect early stage cancer tissue that is completely invisible to normal human vision or standard medical cameras, without needing contrast dyes. In December 2025 the system received clinical approval for use during surgical operations to help surgeons fully remove tumour margins that would otherwise be missed.",
       "sources": [
