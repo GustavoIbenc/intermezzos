@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Fusion plasma breakthrough",
+      "fact": "In March 2026 China's EAST tokamak team experimentally verified a long-theorised density-free plasma regime, achieving stable operation at 1.3–1.65x the Greenwald limit that was previously considered the hard maximum density for fusion reactors. This removes one of the fundamental engineering bottlenecks for commercial fusion power.",
+      "sources": [
+        "https://www.science.org/doi/10.1126/sciadv.adz3040",
+        "https://phys.org/news/2025-12-tokamak-exceed-plasma-density-limit.html"
+      ],
+      "deliveredAt": "2026-04-01T04:19:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Desert ant magnetic navigation calibration",
       "fact": "Desert ants do not only use the Earth's magnetic field as a compass — they require it during their very first learning walks outside the nest in order to calibrate their entire visual navigation system. Without access to magnetic field information, ants never successfully learn to reliably return home, even with perfect visual landmarks. This was confirmed in December 2025 PNAS studies, where it was found that magnetic reference is used to permanently align spatial memory during the first 72 hours of an ant's foraging life.",
       "sources": [
