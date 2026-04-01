@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Carbon negative concrete enzyme curing breakthrough",
+      "fact": "In January 2026 researchers demonstrated a carbon-negative concrete material that uses naturally occurring carbonic anhydrase enzyme to absorb atmospheric CO₂ while curing. Instead of releasing carbon during production, every tonne of this material permanently locks away 230kg of CO₂ as solid mineral carbonate. It reaches full structural strength in 12 hours, matches standard concrete performance, and requires no modifications to existing construction equipment or processes.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2026/01/260121034148.htm",
+        "https://www.strath.ac.uk/whystrathclyde/news/2026/carboncaptureforconcrete/"
+      ],
+      "deliveredAt": "2026-04-01T11:49:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Sodium ion battery hydrated cathode breakthrough",
       "fact": "In February 2026 researchers discovered that leaving natural bound water inside sodium ion battery cathode materials almost doubles their energy storage capacity. Contrary to 30 years of standard practice which required fully drying all battery components, the water molecules act as a structural stabiliser allowing sodium ions to move much faster through the material. This single change brings sodium ion energy density up to 75% of modern lithium ion cells, at one fifth the raw material cost.",
       "sources": [
