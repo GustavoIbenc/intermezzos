@@ -202,6 +202,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Deep ocean heterotroph carbon fixation",
+      "fact": "In December 2025 researchers discovered that most carbon fixation in the dark deep ocean is not done by the ammonia-oxidizing archaea everyone assumed was responsible. Instead over 60% of sunless carbon fixation is performed by ordinary heterotrophic bacteria, which were previously thought to only consume organic carbon not build it. This completely rewrites our model of the global ocean carbon cycle, and was independently verified across three separate ocean basins with direct in-situ measurements.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2025/12/251210092024.htm",
+        "https://www.nature.com/articles/s41467-026-70869-3"
+      ],
+      "deliveredAt": "2026-04-01T03:34:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Repeating fast radio burst stellar wind environment",
       "fact": "January 2026 observations published in Science confirmed that repeating fast radio bursts exist inside dense, constantly changing plasma winds ejected by a massive companion star. Two years of continuous monitoring showed the FRB signal regularly dims and polarizes as it passes through this stellar outflow, which completely changes character on timescales of just a few weeks. This resolves the long running debate over why these bursts show such wildly variable properties when observed days apart.",
       "sources": [
