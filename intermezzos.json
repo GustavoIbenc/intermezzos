@@ -201,6 +201,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Plant electrical signalling memory",
+      "fact": "Plants retain measurable electrical memory of stress events for up to 72 hours, allowing them to pre-emptively activate defence responses if the same stress occurs again. This memory is not stored in any central nervous system, but encoded as persistent ion channel potential states across every cell in the plant. November 2025 studies confirmed that even after the original stimulus is gone, this electrical signature remains and modifies the plant's response to future environmental changes.",
+      "sources": [
+        "https://www.mdpi.com/2079-6374/15/11/744",
+        "https://academic.oup.com/plcell/article/34/8/3047/6589903"
+      ],
+      "deliveredAt": "2026-04-01T06:34:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Cephalopod REM sleep confirmation",
       "fact": "In June 2023 researchers formally confirmed that octopuses experience true REM sleep stages, complete with the same neural activity patterns and muscle paralysis seen in vertebrates. During these sleep phases, octopuses also actively cycle through the skin colour patterns they use while awake, strongly suggesting they are dreaming or replaying waking experiences. This means REM sleep evolved completely independently at least twice on Earth, once in vertebrates and once separately in the cephalopod lineage over 500 million years ago.",
       "sources": [
