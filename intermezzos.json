@@ -101,6 +101,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Spider silk peripheral nerve repair",
+      "fact": "In March 2026 the first human patients were successfully treated using natural golden orb-web spider silk as a scaffold to repair severed peripheral nerves. The silk fibres act as a physical guide track allowing damaged nerve axons to regrow across gaps up to 7cm long, then dissolve completely harmlessly inside the body after 18 months. This approach avoids the need for nerve grafts, and has already restored partial motor function in patients who had previously been told they would never recover movement.",
+      "sources": [
+        "https://www.gbnews.com/science/science-breakthrough-british-start-up-achieves-medical-first-spider-silk-damaged-nerves",
+        "https://www.science.org/doi/10.1126/sciadv.adg0234"
+      ],
+      "deliveredAt": "2026-04-01T16:19:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Mars solid inner core confirmation",
       "fact": "In December 2025 final analysis of NASA InSight mission seismic data confirmed Mars has a 600 km radius solid iron-nickel inner core, surrounded by a fully liquid outer core. This resolved a 50 year old debate about Mars interior structure, and explains why the planet lost its global magnetic field 4 billion years ago. The measurements were independently verified and published simultaneously in both Nature and Science journals.",
       "sources": [
