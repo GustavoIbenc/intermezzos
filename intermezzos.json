@@ -197,6 +197,17 @@
         "https://www.cell.com/cell/pdf/S0092-8674(23)00523-8.pdf"
       ],
       "deliveredAt": "2026-03-31T11:49:00Z",
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Hummingbird overnight torpor physiology",
+      "fact": "Every night hummingbirds enter deep torpor, dropping their body temperature as low as 3.3°C — the coldest recorded body temperature for any bird or non-hibernating mammal. Their heart rate falls from over 1200 beats per minute during flight down to just 50 beats per minute, reducing energy consumption by 95%. Without this nightly shutdown they would starve to death before sunrise. This extreme physiological adaptation was fully verified in wild Andean hummingbird populations in 2025.",
+      "sources": [
+        "https://www.science.org/content/article/survive-frigid-nights-hummingbirds-cool-themselves-record-low-temperatures",
+        "https://royalsocietypublishing.org/doi/10.1098/rspb.2024.2489"
+      ],
+      "deliveredAt": "2026-04-01T19:19:00Z",
+      "count": 1
       "count": 1
     },
     {
