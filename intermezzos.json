@@ -201,6 +201,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Human gut bacteria serotonin production",
+      "fact": "In March 2026 researchers confirmed that two common human gut bacteria, Limosilactobacillus mucosae and Ligilactobacillus ruminis, can directly synthesize and release active serotonin. Prior to this it was always believed all gut serotonin was produced exclusively by human intestinal cells. The bacteria produce serotonin from dietary 5-hydroxytryptophan, and when introduced to germ-free mice they completely restored normal intestinal motility and increased enteric neuron density by 42%.",
+      "sources": [
+        "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01205-7",
+        "https://www.sciencedaily.com/releases/2019/09/190906092809.htm"
+      ],
+      "deliveredAt": "2026-04-01T13:19:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Moss cyanobacteria nitrogen fixation symbiosis",
       "fact": "Nearly all common moss species form obligate symbioses with nitrogen-fixing cyanobacteria living between their leaf cells. These associations are responsible for over 70% of all natural nitrogen input into boreal and tundra ecosystems, more than all atmospheric deposition combined. Unlike agricultural nitrogen fixation which requires enormous energy inputs, this process operates passively at ambient temperatures and requires no external inputs.",
       "sources": [
