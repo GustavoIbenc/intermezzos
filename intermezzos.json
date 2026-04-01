@@ -188,6 +188,17 @@
       ],
       "deliveredAt": "2026-03-31T23:49:00Z",
       "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Repeating fast radio burst stellar wind environment",
+      "fact": "January 2026 observations published in Science confirmed that repeating fast radio bursts exist inside dense, constantly changing plasma winds ejected by a massive companion star. Two years of continuous monitoring showed the FRB signal regularly dims and polarizes as it passes through this stellar outflow, which completely changes character on timescales of just a few weeks. This resolves the long running debate over why these bursts show such wildly variable properties when observed days apart.",
+      "sources": [
+        "https://www.science.org/doi/10.1126/science.adq3225",
+        "https://www.sciencedaily.com/releases/2026/03/260315004348.htm"
+      ],
+      "deliveredAt": "2026-04-01T00:34:00Z",
+      "count": 1
     }
   ]
 }
