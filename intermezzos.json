@@ -201,6 +201,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Direct air capture verified removal scale 2026",
+      "fact": "As of April 2026, Climeworks is now delivering over 50,000 tons per year of verified permanent carbon removal credits, making it the first direct air capture operator to reach this scale. All credits are independently certified under Verra, Gold Standard and Puro.earth standards, with buyers including Stripe, Schneider Electric and NYK Line. Independent peer reviewed analysis confirms these facilities are now operating at consistent real world removal rates, not just demonstration scale.",
+      "sources": [
+        "https://carboncredits.com/top-3-carbon-capture-leaders-to-drive-the-net-zero-race-in-2026/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12533392/"
+      ],
+      "deliveredAt": "2026-04-01T11:04:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Jupiter lightning power measurements",
       "fact": "On March 23 2026 researchers published final measurements from NASA Juno spacecraft data confirming individual lightning bolts on Jupiter can be between 100 and one million times more powerful than lightning on Earth. The measurement used captured radio emissions from lightning discharges, which allowed for the first direct accurate power calculation rather than indirect optical estimates. This resolves 40 years of debate over the actual strength of Jovian lightning since Voyager first detected it in 1979.",
       "sources": [
