@@ -191,6 +191,17 @@
       "count": 1
     },
     {
+      "id": "komodo-venom-20260402",
+      "topic": "Komodo dragon venom mechanism",
+      "fact": "Contrary to long held popular belief, Komodo dragons do not kill prey using bacteria in their saliva. They are true venomous animals, with dedicated venom glands running along their lower jaw. Their venom is not neurotoxic: it instead targets blood vessels, lowering blood pressure dramatically and preventing clotting so prey bleeds out rapidly. The bacteria myth was completely debunked in formal histological studies published in July 2025.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2690028/",
+        "https://link.springer.com/article/10.1007/s11259-025-10825-6"
+      ],
+      "deliveredAt": "2026-04-02T08:50:00Z",
+      "count": 1
+    },
+    {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Honeybee nutritional breakthrough",
       "fact": "Researchers at University of Oxford have engineered ordinary yeast to produce the missing sterol compounds that modern agricultural pollen lacks. Honeybee colonies fed this supplement successfully reared brood and grew up to 15 times better than control groups given standard commercial bee food. This solves a longstanding problem with artificial bee feeds which were always nutritionally incomplete despite having sufficient protein and sugar. The yeast is already food-safe and works as a simple dry powder additive.",
