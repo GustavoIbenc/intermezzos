@@ -203,6 +203,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Tardigrade Dsup protein DNA protection mechanism",
+      "fact": "The tardigrade-unique Dsup protein does not repair broken DNA: it physically wraps completely around chromatin like a soft protective cloud, absorbing and neutralising hydroxyl radicals before they can reach the DNA strand. When expressed in human cells it reduces radiation damage by approximately 40%. Dsup is an intrinsically disordered protein with no fixed 3D structure, which is what allows it to perfectly conform around every part of the nucleosome. This mechanism was finally resolved with cryo-EM in October 2024.",
+      "sources": [
+        "https://www.nature.com/articles/s41598-024-74335-2",
+        "https://pubmed.ncbi.nlm.nih.gov/41620827/"
+      ],
+      "deliveredAt": "2026-04-02T06:35:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Deep sea black coral symbiosis",
       "fact": "In December 2025 researchers discovered that deep sea black corals maintain a stable obligate symbiosis with specialized bacteria that have lost 70% of their original genome. Unlike shallow corals which rely on photosynthetic algae, these corals live at 1000m depth with no sunlight, and their bacterial partners have become completely dependent, unable to survive outside the coral host. This is the most extreme genome reduction ever observed in a marine animal symbiont.",
       "sources": [
