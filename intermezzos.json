@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Orca post-menopausal grandmother leadership",
+      "fact": "Orcas are one of only three animal species known to undergo true menopause, with females stopping reproduction at around age 40 but often living for another 50 years. Post-reproductive grandmothers are the primary leaders of orca pods, especially during periods of food scarcity. During years when salmon populations are low, older females will lead the entire pod to historically reliable feeding grounds that only they remember. This grandmother leadership effect is so strong that the survival rate of all pod members drops dramatically within two years of an elder female's death.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11890658/",
+        "https://www.cell.com/fulltext/S0960-9822(15)00069-X"
+      ],
+      "deliveredAt": "2026-04-02T20:50:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Great white shark liver buoyancy mechanism",
       "fact": "Great white sharks do not have swim bladders like bony fish. Instead they carry an enormous fatty liver that can account for up to 27% of their total body weight. This organ is filled almost entirely with squalene, a lipid that is almost exactly 10% less dense than seawater. Unlike every other buoyancy mechanism found in vertebrates, shark liver oil has almost identical compressibility to seawater, meaning their neutral buoyancy remains perfectly constant at any depth, with zero adjustment required. This is why great whites can glide silently for hours across thousands of meters of depth changes without expending any energy on buoyancy control.",
       "sources": [
