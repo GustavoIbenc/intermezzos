@@ -1,6 +1,17 @@
 {
   "delivered": [
     {
+      "id": "mimic-octopus-targeted-impersonation-20260402",
+      "topic": "Mimic octopus targeted threat impersonation",
+      "fact": "The mimic octopus does not just impersonate random animals — it actively selects which species to mimic based on the specific threat it is facing. When attacked by territorial damselfish, it will reliably impersonate a venomous sea snake, the only known predator that damselfish will avoid. It has been verified to successfully imitate at least 16 distinct marine species, and is the only known animal that can dynamically switch between multiple different mimicry identities in real time.",
+      "sources": [
+        "https://www.guinnessworldrecords.com/news/2025/4/meet-the-mimic-octopus-the-curious-cephalopod-that-can-impersonate-marine-animals",
+        "https://octonation.com/octopedia/mimic-octopus/"
+      ],
+      "deliveredAt": "2026-04-02T14:50:00Z",
+      "count": 1
+    },
+    {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Tardigrade DNA repair mechanisms",
       "fact": "Tardigrades don't just shield their DNA to survive extreme radiation — they actively repair it. Within minutes of exposure, they dramatically upregulate dozens of dedicated DNA repair genes, not just one or two. Their Dsup protein does not block damage directly, instead it modulates human cell repair pathways to speed recovery. This mechanism works so well that researchers are already testing expressed tardigrade genes to improve radiation resistance in human cell cultures.",
