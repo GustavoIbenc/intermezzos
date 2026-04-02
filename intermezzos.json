@@ -546,6 +546,17 @@
       "count": 1
     },
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Elephant human visual attention recognition",
+      "fact": "In October 2025 researchers confirmed that Asian elephants understand when a human is paying attention to them. They reliably distinguish between when a person is facing them, turned away, has eyes closed, or even just has their head turned. Elephants use this information to decide whether to approach or avoid, making them the first non-primate animal proven capable of recognising human attentional state at this level of detail.",
+      "sources": [
+        "https://phys.org/news/2025-10-elephants-youre-human-visual-attention.html",
+        "https://www.nature.com/articles/s41598-025-84712-9"
+      ],
+      "deliveredAt": "2026-04-02T14:05:00Z",
+      "count": 1
+    },
+    {
       "id": "f1d4a7c2-0e8b-4d9c-9a7e-2f5b8c3d6e1a",
       "topic": "Human functional olfactory receptor count",
       "fact": "Humans only have 394 confirmed fully functional olfactory receptor genes, not the 400 that was the standard figure for 22 years. Updated whole-genome sequencing published in March 2026 verified that 24 previously counted genes are actually silent pseudogenes, while 18 previously discarded genes were found to be functional. This revision resolves decades of conflicting measurement results across different population studies.",
