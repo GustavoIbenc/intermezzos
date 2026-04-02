@@ -778,5 +778,17 @@
       "deliveredAt": "2026-04-02T12:35:00.000Z",
       "count": 1
     }
+    },
+    {
+      "id": "narwhal-tusk-sensory-innervation-20260403",
+      "topic": "Narwhal tusk sensory organ function",
+      "fact": "The narwhal tusk is not a weapon or display structure: it is an exposed, fully innervated sensory organ. Over 10 million nerve endings run through its entire length, with open channels that let ocean water come into direct contact with live nerve tissue. It can detect changes in salinity, temperature, pressure, and even prey chemical signatures from hundreds of meters away. Males will repeatedly rub their tusks together not to fight, but to exchange and compare sensory readings about the surrounding water.",
+      "sources": [
+        "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1518605/full",
+        "https://pubmed.ncbi.nlm.nih.gov/24639076/"
+      ],
+      "deliveredAt": "2026-04-02T17:50:00Z",
+      "count": 1
+    }
   ]
 }
