@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Human blind spot neural filling mechanism",
+      "fact": "Every human has a permanent 6° blind spot in each eye where the optic nerve exits the retina, yet you never perceive a hole in your vision. Your brain does not guess or interpolate edges — it actively predicts and fabricates full continuous visual input for this region, borrowing pattern information from surrounding areas. This filling-in process is so convincing that you can not distinguish real visual input from the constructed content inside the blind spot. It works even for moving objects and complex textures, and was only properly confirmed in 2024 using cross-sensory masking experiments.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4784844/",
+        "https://www.biorxiv.org/content/10.1101/2024.11.15.623713v1.full"
+      ],
+      "deliveredAt": "2026-04-02T23:05:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Mantis shrimp vision speed tradeoff",
       "fact": "Mantis shrimp do not actually have better colour discrimination than humans despite having 12-16 distinct colour photoreceptors. Instead of combining signals like human eyes do, they use each receptor as a dedicated, hardwired wavelength detector. This lets them identify colour wavelengths in under 10 milliseconds — 100x faster than the human visual cortex — with zero processing delay. This tradeoff sacrifices fine colour gradation for reaction speed, perfectly adapted for striking prey at 23 m/s.",
       "sources": [
