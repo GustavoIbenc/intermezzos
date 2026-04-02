@@ -2,6 +2,17 @@
   "delivered": [
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Mantis shrimp vision speed tradeoff",
+      "fact": "Mantis shrimp do not actually have better colour discrimination than humans despite having 12-16 distinct colour photoreceptors. Instead of combining signals like human eyes do, they use each receptor as a dedicated, hardwired wavelength detector. This lets them identify colour wavelengths in under 10 milliseconds — 100x faster than the human visual cortex — with zero processing delay. This tradeoff sacrifices fine colour gradation for reaction speed, perfectly adapted for striking prey at 23 m/s.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3886321/",
+        "https://scholarblogs.emory.edu/artsbrain/2020/03/05/vision-in-mantis-shrimp/"
+      ],
+      "deliveredAt": "2026-04-02T21:35:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Orca post-menopausal grandmother leadership",
       "fact": "Orcas are one of only three animal species known to undergo true menopause, with females stopping reproduction at around age 40 but often living for another 50 years. Post-reproductive grandmothers are the primary leaders of orca pods, especially during periods of food scarcity. During years when salmon populations are low, older females will lead the entire pod to historically reliable feeding grounds that only they remember. This grandmother leadership effect is so strong that the survival rate of all pod members drops dramatically within two years of an elder female's death.",
       "sources": [
