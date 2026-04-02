@@ -1,6 +1,17 @@
 {
   "delivered": [
     {
+      "id": "honeybee-waggle-dance-error-20260403",
+      "topic": "Honeybee waggle dance error tradeoff",
+      "fact": "For over 50 years researchers assumed the error in honeybee waggle dances was an imperfect limitation. We now know it is an intentional evolutionary tradeoff. Perfectly precise dances would send every bee to exactly the same flower, causing crowding and missed opportunities. The natural ±15° built-in error spreads foragers out across an area, dramatically increasing total colony harvest success while still reliably guiding them to the correct general location.",
+      "sources": [
+        "https://www.nature.com/articles/srep04175",
+        "https://link.springer.com/article/10.1007/s00265-025-03593-5"
+      ],
+      "deliveredAt": "2026-04-02T16:20:00Z",
+      "count": 1
+    },
+    {
       "id": "mimic-octopus-targeted-impersonation-20260402",
       "topic": "Mimic octopus targeted threat impersonation",
       "fact": "The mimic octopus does not just impersonate random animals — it actively selects which species to mimic based on the specific threat it is facing. When attacked by territorial damselfish, it will reliably impersonate a venomous sea snake, the only known predator that damselfish will avoid. It has been verified to successfully imitate at least 16 distinct marine species, and is the only known animal that can dynamically switch between multiple different mimicry identities in real time.",
