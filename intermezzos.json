@@ -1,6 +1,17 @@
 {
   "delivered": [
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Platypus venom pain activation mechanism",
+      "fact": "Male platypus venom does not damage tissue directly — it forces pain nerves into permanent full activation by opening every single sodium ion channel at once. This creates an unblockable pain signal that standard opioid painkillers cannot suppress. There is no swelling, no physical damage, just pure unfiltered pain that can last for weeks. This is the only known vertebrate venom that works this way, and it evolved exclusively for fighting other males during mating season.",
+      "sources": [
+        "https://www.sciencedaily.com/releases/2010/01/100113172254.htm",
+        "https://journals.physiology.org/doi/full/10.1152/jn.2001.85.3.1340"
+      ],
+      "deliveredAt": "2026-04-02T18:35:00Z",
+      "count": 1
+    },
+    {
       "id": "geosmin-human-olfaction-sensitivity-20260403",
       "topic": "Human geosmin olfactory sensitivity",
       "fact": "The human nose can detect geosmin – the compound responsible for the smell of rain – at just 100 parts per trillion. This makes us 200,000 times more sensitive to this molecule than sharks are to blood. We evolved this extreme sensitivity to locate fresh water sources across large distances, an adaptation that predates modern humans. No other tested mammal has demonstrated this level of detection sensitivity for any airborne chemical.",
