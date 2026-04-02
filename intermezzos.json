@@ -199,6 +199,17 @@
       "count": 1
     },
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Turritopsis dohrnii biological immortality mechanism",
+      "fact": "The immortal jellyfish Turritopsis dohrnii is the only known animal capable of fully reversing its life cycle at any adult stage. When injured, starved or stressed it converts all mature cells back into stem cells through transdifferentiation, then regrows itself as a brand new polyp colony. This process has been successfully observed and replicated under laboratory conditions over 100 times, with no observed biological limit to how many times it can be performed.",
+      "sources": [
+        "https://www.pnas.org/doi/10.1073/pnas.2118763119",
+        "https://pubmed.ncbi.nlm.nih.gov/39719736/"
+      ],
+      "deliveredAt": "2026-04-02T09:20:00+08:00",
+      "count": 1
+    },
+    {
       "id": "wood-frog-freeze-tolerance-20260402",
       "topic": "Wood frog subzero body freezing adaptation",
       "fact": "Wood frogs can survive being completely frozen solid for up to 8 months every year. When temperatures drop below freezing, up to 70% of the water in their body turns to solid ice: their heart stops completely, they stop breathing, and all neural activity ceases. They produce urea and glucose as natural cryoprotectants to prevent ice crystals from rupturing cell membranes, and can thaw fully alive and functional within a few hours when temperatures rise. This adaptation allows them to live further north than any other amphibian species, all the way inside the arctic circle.",
