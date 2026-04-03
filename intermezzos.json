@@ -203,6 +203,20 @@
       "count": 1
     },
     {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Pigeon inner ear magnetoreception",
+      "fact": "For 60 years researchers were looking for iron cells in pigeon beaks, when in November 2025 the actual magnetic compass was finally found inside their inner ears. Pigeons do not detect magnetic fields directly. Instead, as they move through the Earth's magnetic field, tiny electric currents are induced inside the fluid of their semicircular canals. Specialized hair cells pick up these currents, giving them continuous perfect orientation. This is the first verified mechanism for bird magnetoreception that matches all experimental observations.",
+      "sources": [
+        "https://www.science.org/doi/10.1126/science.aea6425",
+        "https://scientificinquirer.com/2025/11/24/pigeons-inner-ears-double-as-hidden-magnetic-compasses/"
+      ],
+      "deliveredAt": "2026-04-03T02:05:00Z",
+      "count": 1
+    },
+      "deliveredAt": "2026-04-02T02:05:00Z",
+      "count": 1
+    },
+    {
       "id": "croc-heart-shunt-digestion-20260402",
       "topic": "Crocodile cardiac shunt function",
       "fact": "Unlike every other four-chambered heart animal, crocodiles have an active right-to-left blood shunt that bypasses their lungs entirely. This is not a defect: it evolved deliberately to redirect CO₂ rich blood directly to their stomach, where it powers production of stomach acid 10x faster than any mammal, letting them dissolve bone and large prey.",
