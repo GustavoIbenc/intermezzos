@@ -123,6 +123,17 @@
     },
     {
       "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
+      "topic": "Octopus chemotactile arm receptors",
+      "fact": "Octopuses do not have separate senses of touch and taste. Every single sucker on their arms contains specialized chemotactile receptors that detect both physical contact and chemical molecules at the same time. This 'taste by touch' system is so sensitive that an octopus can identify prey, mates, and dangerous objects without ever seeing them. Each arm can process this sensory information completely independently, without sending signals back to the central brain.",
+      "sources": [
+        "https://phys.org/news/2026-04-octopus-sensory-potential.html",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7605239/"
+      ],
+      "deliveredAt": "2026-04-03T01:20:00Z",
+      "count": 1
+    },
+    {
+      "id": "273577d6-81bb-4e15-ac1e-fba21e6067e4",
       "topic": "Tardigrade DNA repair mechanisms",
       "fact": "Tardigrades don't just shield their DNA to survive extreme radiation — they actively repair it. Within minutes of exposure, they dramatically upregulate dozens of dedicated DNA repair genes, not just one or two. Their Dsup protein does not block damage directly, instead it modulates human cell repair pathways to speed recovery. This mechanism works so well that researchers are already testing expressed tardigrade genes to improve radiation resistance in human cell cultures.",
       "sources": [
