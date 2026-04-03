@@ -57,11 +57,11 @@ function filterBy(topic) {
 
 function renderGrid(items) {
   document.getElementById('grid').innerHTML = items.length === 0 ? '<div class="loading">No curiosities found.</div>' : items.map((item, i) => `
-    <div class="card" onclick="openModal(${i})">
+    <div class="card" onclick="openModal(${allData.indexOf(item)})">
       ${item.sources?.length > 0 ? '<div class="card-badge">✓ Verified</div>' : '<div class="card-badge unverified">⚠ Unverified</div>'}
       <div class="card-topic">${item.topic.split('/')[0]}</div>
       <div class="card-fact">${item.fact.substring(0, 140)}${item.fact.length > 140 ? '...' : ''}</div>
-      <div class="card-footer"><span>${new Date(item.deliveredAt[0]).toLocaleDateString('en-US', {month:'short',day:'numeric'})}</span><span class="read-more">Read story →</span></div>
+      <div class="card-footer"><span>${new Date(item.deliveredAt).toLocaleDateString('en-US', {month:'short',day:'numeric'})}</span><span class="read-more">Read story →</span></div>
     </div>
   `).join('');
 }
